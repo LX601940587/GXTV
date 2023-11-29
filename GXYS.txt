@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "clan://localhost/tvbox/123/123.json",
+            "url": "https://gitee.com/gxtv/gxtv/raw/master/123/123.json",
             "name": "📺︎阿里4K画质（电视用）"
         },
         {

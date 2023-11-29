@@ -451,7 +451,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🐻找资源┃搜索",
+      "name": "🐻┃搜索",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -495,7 +495,7 @@
     },
     {
       "key": "七夜",
-      "name": "🐻七夜┃搜索",
+      "name": "🐻45┃搜索",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,

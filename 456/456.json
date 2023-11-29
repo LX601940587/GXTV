@@ -202,7 +202,7 @@
 
   {
       "key": "影院",
-      "name": "🐻夜猫蓝光",
+      "name": "🐻蓝光",
       "type": 3,
       "playerType": 2,
       "api": "csp_AppYsV2",
@@ -556,7 +556,7 @@
       }
     },
   {
-      "name": "巧技",
+      "name": "3",
       "type": 1,
       "url": "https://www.qiaoji8.com/tvbox/json1.php?url=",
       "ext": {
@@ -654,7 +654,7 @@
       }
     },
     {
-      "name": "夜猫超聚合",
+      "name": "超聚合",
       "type": 1,
       "url": "http://42.51.37.161:5678/json/520239app9/gf2.php?url=",
       "ext": {
@@ -700,7 +700,7 @@
       }
     },
     {
-      "name": "夜猫超解析2",
+      "name": "超解析2",
       "type": 1,
       "url": "https://api.8l2.cn/api/?key=5c9905a3dc0bef77647d1bb4a1d319ad&url=",
       "ext": {
@@ -1381,13 +1381,7 @@
       "hosts": [
         "magnet"
       ],
-      "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
-      ]
-    }
-  ],
+     
   "lives": [
       {
       "name": "狗熊直播",

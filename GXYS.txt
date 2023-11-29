@@ -5,7 +5,7 @@
             "name": "📺︎阿里4K画质（电视用）"
         },
         {
-            "url": "clan://localhost/tvbox/456/456.json",
+            "url": "https://gitee.com/gxtv/gxtv/raw/master/456/456.json",
             "name": "👑请勿相信视频的网址"
         },
   {

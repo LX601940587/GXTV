@@ -408,13 +408,7 @@
       "type": 0,
       "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "电视剧",
-        "电影",
-        "动漫",
-        "综艺"
-      ]
+      "changeable": 1
     },
     {
       "key": "gszy",
@@ -422,19 +416,7 @@
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
+      "filterable": 0
     },
    {
       "key": "Upys",
@@ -609,7 +591,7 @@
       }
     },
     {
-      "name": "神秘的哥哥们",
+      "name": "1",
       "type": 1,
       "url": "http://api.888484.xyz/jiexi/米太硬.php?url=",
       "ext": {

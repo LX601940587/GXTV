@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://gitee.com/yq-sj/tg/raw/master/1a.m3u
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="公告",智诚优美视界
+http://159.75.85.63:5681/sxg.php?id=CCTV-1H265_4000
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="公告",Apple TV一站式服务
+http://159.75.85.63:5681/sxg.php?id=CCTV-2H265_4000
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="公告",此直播源免费分享
+http://159.75.85.63:5681/sxg.php?id=CCTV-3H265_4000
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="公告",不定时更换地址，进群防走丢
+http://159.75.85.63:5681/sxg.php?id=CCTV-4H265_4000
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="公告",更多福利优惠免费送
+http://159.75.85.63:5681/sxg.php?id=CCTV-5H265_4000
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="公告",加我微信willball08
+http://159.75.85.63:5681/sxg.php?id=CCTV-5plusH265_4000

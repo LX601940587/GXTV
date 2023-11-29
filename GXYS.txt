@@ -9,7 +9,7 @@
             "name": "👑请勿相信视频的网址"
         },
   {
-            "url": "clan://localhost/tvbox/789/789.json",
+            "url": "https://gitee.com/gxtv/gxtv/raw/master/789/789.json",
             "name": "🎶抖音短剧"
       
         }

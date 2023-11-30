@@ -114,14 +114,4 @@
       "changeable": 1
     },
 
-        {
-      "key": "Gitcafe",
-      "name": "🐻小纸条阿里",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/HeChengChaXiu.jar",
-      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
-    },
+      

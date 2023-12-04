@@ -39,6 +39,17 @@
       "ext": "https://pan.shangui.cc/f/Na3qIj/yysd2.json",
       "jar": "./lib/lxhfans应用市场.jar"
     },
+      {
+      "key": "csp_Free",
+      "name": "🐻┃夸克┃4K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/Free影视.json",
+      "jar": "./lib/HeChengChaXiu.jar"
+    },
 {
       "key": "乌鸦",
       "name": "🐻乌鸦┃影视",

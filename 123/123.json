@@ -71,6 +71,17 @@
       "jar": "./lib/xyq.jar"
     },
     {
+      "key": "csp_Free",
+      "name": "🧡┃夸克┃4K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/Free影视.json",
+      "jar": "./lib/HeChengChaXiu.jar"
+    },
+    {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "🐻玩偶哥哥(优)",
       "type": 3,

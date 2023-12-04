@@ -52,7 +52,7 @@
     },
         {
       "key": "小小",
-      "name": "🐻小小┃App",
+      "name": "🐻晓晓",
       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
@@ -72,7 +72,7 @@
     },
       {
       "key": "feiyun",
-      "name": "🐻飞云",
+      "name": "🐻非云",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/fy.js",

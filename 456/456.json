@@ -62,7 +62,7 @@
     },
         {
       "key": "极光",
-      "name": "🐻极光┃App",
+      "name": "🐻极光",
       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
@@ -72,7 +72,7 @@
     },
       {
       "key": "feiyun",
-      "name": "🐻飞云┃切片",
+      "name": "🐻飞云",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/fy.js",

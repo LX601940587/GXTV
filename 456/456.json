@@ -58,7 +58,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-       "jar": "./xinfty.jar",
+       
       "ext": "FbjPcVZY48PN/RIZ5UWFrsgwaYYVSsIJD3UWs7i4yk1XUNSIsT3IgxCP9qyzByO7ZnqW3G0tjmslTGNlCJx9KFpYWdSQ0BTcKTlG3CAclaw3AOm0fS9oLx2taGFrzpf9uSKPPIBwToF3pEZBvQOlHhoMMOnm4EsAMpVefSVfagul7fFS8qxdQvcqdulXNwxSXwVqwgY9fgGounx/txZHh9k8mqD6nFJaZH0GwpEpXmVLgQ=="
     },
         {
@@ -69,7 +69,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-       "jar": "./xinfty.jar",
+       
       "ext": "FbjPcVZY48PN/RIZ5UWFrphicspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2BrULz5M1CsK3w=="
     },
       {
@@ -512,8 +512,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://haozhansou.com/",
-      "jar": "./xinfty.jar"
+      "ext": "https://haozhansou.com/"
+
     },
     {
       "key": "zycj_天天",

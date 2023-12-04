@@ -50,6 +50,36 @@
       "ext": "./lib/Free影视.json",
       "jar": "./lib/HeChengChaXiu.jar"
     },
+        {
+      "key": "小小",
+      "name": "🐻小小┃App",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5UWFrsgwaYYVSsIJD3UWs7i4yk1XUNSIsT3IgxCP9qyzByO7ZnqW3G0tjmslTGNlCJx9KFpYWdSQ0BTcKTlG3CAclaw3AOm0fS9oLx2taGFrzpf9uSKPPIBwToF3pEZBvQOlHhoMMOnm4EsAMpVefSVfagul7fFS8qxdQvcqdulXNwxSXwVqwgY9fgGounx/txZHh9k8mqD6nFJaZH0GwpEpXmVLgQ=="
+    },
+        {
+      "key": "极光",
+      "name": "🐻极光┃App",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5UWFrphicspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2BrULz5M1CsK3w=="
+    },
+      {
+      "key": "feiyun",
+      "name": "🐻飞云┃切片",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/fy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
 {
       "key": "乌鸦",
       "name": "🐻乌鸦┃影视",

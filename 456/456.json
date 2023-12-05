@@ -154,6 +154,15 @@
       "ext": "https://jihulab.com/happyhome/home/-/raw/main/lib/token.json$$$https://api.wogg.xyz$$$null$$$1",
       "timeout": 30
     },
+      {
+      "key": "团长资源",
+      "name": "🐻┃团长资源┃",
+      "type": 3,
+      "api": "csp_TZFile",
+      "ext": "https://jihulab.com/happyhome/home/-/raw/main/lib/token.json$$$null$$$1",
+      "quickSearch": 1,
+      "changeable": 1
+    },
    {
       "key": "tvbsk",
       "name": "🐻┃TVB云播┃",

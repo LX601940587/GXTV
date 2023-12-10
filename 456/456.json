@@ -149,7 +149,7 @@
       "name": "🥫NO┃视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xiaohe.jar",
+      "jar": "http://小盒酷玩.fun:74/禁止贩卖",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -167,7 +167,7 @@
       "key": "花海",
       "name": "🌼花海┃影视",
       "api": "csp_AppYs",
-      "jar": "./lib/xiaohe.jar",
+      "jar": "http://小盒酷玩.fun:67/禁止贩卖",
       "type": 3,
       "playerType": "2",
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
@@ -199,7 +199,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "api": "csp_Appto",
-      "jar": "./lib/xiaohe.jar",
+      "jar": "http://小盒.酷玩.fun:75/禁止贩卖",
       "playerType": 2,
       "ext": {
         "key": "QBccRNTdEscBYykPWRbKD7YREjN6AJYJ",
@@ -231,7 +231,7 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "ilH3/t4mr1SM09PvschTH1LOZQVQKtsm4MVV71I4Lwh63Oc97KaPnM2ZzZRvsQpckmVsMew5wnfhBUdHmy8YP+wok44dwqClEg0/PhTrtSCTOBGoOIf5QmbrPwtmGCBSsfWb2JZ6jrJ05gANATBhTNcmf3lFV45rF6ahsGTbeiIZTRVQM4TVfHB6CJI8QNfc88sKDjYjvMC7XhYNrmebd3ZIA++k361VGPv0jlGOHS8iUA6ywLlBgHp+jl84MIJcLvmzqN5OfD04xGXE/nNTqlf6CG83cX27GZ2036L7ZVdSiI9/dI0vmuQUvXXaA/OqH2xqDA1Y4ltd0fZoH7/x9fY+gg1nsxgDTalCQJL8lkAOdvft2m+QKyQB4gXrcWrH+eUOaScueRXlKSTGer3OR1ZyZmSgd/BvqSukXeaUmDPDJsERNe80PFW6B7xqbGQz5l9jNsxgwVkjque5eNYUuvyc3YK3N09bR1hMWw3aUpLldwBMLDNgCgH/YYBjEqAfXjooSZxI3nPReKeRyOnUmpoqbXE045w6A8nrFsiJ9jZaDQoRf6u9g8xNlXM11v5klfzrhT+0cHWdhIME4cn4Fq83p1NzlIZ808fXP79xmnqQdeNbMGKRELseJSwV8hfx+e6yVN5oOrRrVjD2rCDPSYBZh25Pp+5VH0k6NF3N6JwI=",
-      "jar": "./lib/xiaohe.jar"
+      "jar": "http://小盒.酷玩.fun:76/禁止贩卖"
     },  
      {
       "key": "星奇",

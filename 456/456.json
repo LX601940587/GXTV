@@ -133,7 +133,7 @@
     },
      {
       "key": "酷玩云盘",
-      "name": "🎯酷玩┃云盘",
+      "name": "🐻酷玩┃云盘",
       "type": 3,
       "api": "csp_XiaoZhang",
       "searchable": 1,
@@ -146,7 +146,7 @@
     },
     {
       "key": "NOAD",
-      "name": "🥫NO┃视频",
+      "name": "🐻NO┃视频",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://小盒酷玩.fun:74/禁止贩卖",
@@ -157,7 +157,7 @@
     },
     {
       "key": "js_v2-jrly",
-      "name": "📯嘉靓┃切片",
+      "name": "🐻嘉靓┃切片",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "jar": "./lib/xiaohe.jar",
@@ -165,7 +165,7 @@
     },
     {
       "key": "花海",
-      "name": "🌼花海┃影视",
+      "name": "🐻花海┃影视",
       "api": "csp_AppYs",
       "jar": "http://小盒酷玩.fun:67/禁止贩卖",
       "type": 3,
@@ -174,7 +174,7 @@
     },
         {
       "key": "vip",
-      "name": "🍾超前┃点播",
+      "name": "🐻超前┃点播",
       "type": 3,
       "playerType": 1,
       "api": "./lib/drpy2.min.js",
@@ -183,7 +183,7 @@
     },
     {
       "key": "飞云",
-      "name": "⛅飞云┃切片",
+      "name": "🐻飞云┃切片",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/fy.js",
@@ -194,7 +194,7 @@
     },
      {
       "key": "萌米",
-      "name": "🌮萌米┃TV",
+      "name": "🐻萌米┃TV",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -212,7 +212,7 @@
     },
     {
       "key": "znjson",
-      "name": "✂️ZNJ┃切片",
+      "name": "🐻ZNJ┃切片",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/zanzan.js",
@@ -223,7 +223,7 @@
     },
     {
       "key": "牛牛",
-      "name": "🐂牛牛┃TV",
+      "name": "🐻牛牛┃TV",
       "type": 3,
       "api": "csp_DDMJ",
       "searchable": 1,
@@ -235,7 +235,7 @@
     },  
      {
       "key": "星奇",
-      "name": "🌟星奇┃TV",
+      "name": "🐻星奇┃TV",
       "type": 3,
       "api": "csp_Appto",
       "playerType": 2,

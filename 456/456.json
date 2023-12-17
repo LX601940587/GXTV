@@ -41,7 +41,7 @@
     },
      {
       "key": "天天",
-      "name": "天天┃App",
+      "name": "🐻天天┃App",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
@@ -62,7 +62,7 @@
      
      {
       "key": "巧技一",
-      "name": "巧技一┃App",
+      "name": "🐻巧技一┃App",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
@@ -71,7 +71,7 @@
     },
     {
       "key": "巧技二",
-      "name": "巧技二┃App",
+      "name": "🐻巧技二┃App",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
@@ -80,7 +80,7 @@
     },
     {
       "key": "巧技三",
-      "name": "巧技三┃App",
+      "name": "🐻巧技三┃App",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
@@ -89,7 +89,7 @@
     },
     {
       "key": "极光",
-      "name": "极光┃App",
+      "name": "🐻极光┃App",
       "type": 3,
       "api": "csp_Skapp",
       "playerType": 2,
@@ -98,7 +98,7 @@
     },
     {
       "key": "侠客",
-      "name": "侠客┃App",
+      "name": "🐻侠客┃App",
       "type": 3,
       "api": "csp_qiao",
       "searchable": 1,

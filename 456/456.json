@@ -39,6 +39,15 @@
       "ext": "https://pan.shangui.cc/f/Na3qIj/yysd2.json",
       "jar": "./lib/lxhfans应用市场.jar"
     },
+     {
+      "key": "天天",
+      "name": "天天┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "jar": "./lib/fix1209.jar",
+      "ext": "http://op.ysdqjs.cn"
+    },
       {
       "key": "csp_Free",
       "name": "🐻夸克",
@@ -61,16 +70,53 @@
        
       "ext": "FbjPcVZY48PN/RIZ5UWFrsgwaYYVSsIJD3UWs7i4yk1XUNSIsT3IgxCP9qyzByO7ZnqW3G0tjmslTGNlCJx9KFpYWdSQ0BTcKTlG3CAclaw3AOm0fS9oLx2taGFrzpf9uSKPPIBwToF3pEZBvQOlHhoMMOnm4EsAMpVefSVfagul7fFS8qxdQvcqdulXNwxSXwVqwgY9fgGounx/txZHh9k8mqD6nFJaZH0GwpEpXmVLgQ=="
     },
-        {
-      "key": "极光",
-      "name": "🐻极光",
+     {
+      "key": "巧技一",
+      "name": "巧技一┃App",
       "type": 3,
-      "api": "csp_AppSK",
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "jar": "./lib/fix1209.jar",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
+    },
+    {
+      "key": "巧技二",
+      "name": "巧技二┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "jar": "./lib/fix1209.jar",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
+    },
+    {
+      "key": "巧技三",
+      "name": "巧技三┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "jar": "./lib/fix1209.jar",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
+    },
+    {
+      "key": "极光",
+      "name": "极光┃App",
+      "type": 3,
+      "api": "csp_Skapp",
+      "playerType": 2,
+      "jar": "./lib/fix1209.jar",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/jiguang"
+    },
+    {
+      "key": "侠客",
+      "name": "侠客┃App",
+      "type": 3,
+      "api": "csp_qiao",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-       
-      "ext": "FbjPcVZY48PN/RIZ5UWFrphicspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2BrULz5M1CsK3w=="
+      "playerType": 2,
+      "filterable": 1,
+      "jar": "./lib/fix1209.jar",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/heihei"
     },
       {
       "key": "feiyun",

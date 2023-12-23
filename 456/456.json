@@ -176,7 +176,15 @@
       "jar": "./lib/fix1209.jar",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
     },
-    
+       {
+      "key": "巧技四",
+      "name": "🐻巧技四┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 1,
+      "jar": "./lib/fix1209.jar",
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"
+    },
     
       
 {

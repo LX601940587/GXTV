@@ -952,56 +952,7 @@
         "战争片"
       ]
     },
-   {
-      "key": "Upys",
-      "name": "🐻弹幕｜云云",
-      "type": 3,
-      "api": "csp_Upys",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "jar": "./lib/spider.jar",
-     "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "danmu": true
-      }
-    },
-   {
-      "key": "小纸条弹幕",
-      "name": "🐻弹幕｜小纸条",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-     "jar": "./lib/spider.jar",
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "danmu": true
-      }
-    },
-    {
-      "key": "YiSo",
-      "name": "🐻易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-      
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🐻找资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
-
-    },
+    
     {
       "key": "PanSou",
       "name": "🐻盘搜┃搜索",
@@ -1011,7 +962,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-
     },
     {
       "key": "UpYun",
@@ -1022,7 +972,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-
     },
     {
       "key": "PanSearch",
@@ -1033,7 +982,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-
     },
     {
       "key": "七夜",
@@ -1044,9 +992,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-   
     },
-    
 
 
 

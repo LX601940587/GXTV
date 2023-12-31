@@ -108,43 +108,43 @@
     },
      {
       "url": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json",
-      "name": "🌟4K视界🌟"
+      "name": "🐻4K视界🐻"
     },
     {
       "url": "http://home.jundie.top:81/top98.json",
-      "name": "🌟俊佬🌟"
+      "name": "🐻俊佬🐻"
     },
     {
       "url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/duanju.json",
-      "name": "🌟短剧🌟"
+      "name": "🐻短剧🐻"
     },
     {
       "url": "http://jin.锦哥哥.love",
-      "name": "🌟锦哥哥🌟"
+      "name": "🐻锦哥哥🐻"
     },
      {
       "url": "https://codeberg.org/looktv/my/raw/branch/main/ck.json",
-      "name": "🌟ck🌟"
+      "name": "🐻ck🐻"
     },
     {
       "url": "https://yyds.lltv8.top/yyds.json",
-      "name": "🌟猎狼线路🌟"
+      "name": "🐻猎狼线路🐻"
     },
     {
       "url": "http://39.101.135.137:8080",
-      "name": "🌟小白龙🌟"
+      "name": "🐻小白龙🐻"
     },
       {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
-      "name": "🌟夜猫子🌟"
+      "name": "🐻夜猫子🐻"
     },
     {
       "url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
-      "name": "🌟圆周率线路🌟"
+      "name": "🐻圆周率线路🐻"
     },
     {
       "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-      "name": "🌟元兴线路🌟"
+      "name": "🐻元兴线路🐻"
     },
     {
       "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json",

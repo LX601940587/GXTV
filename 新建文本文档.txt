@@ -117,16 +117,4 @@
       "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
       "name": "🐻元兴线路🐻"
     },
-    {
-      "url": "http://jin.锦哥哥.love",
-      "name": "🐻锦歌🐻"
-    },
-    {
-      "url": "http://39.101.135.137:8080",
-      "name": "🐻小白🐻"
-    },
   
-    {
-      "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json",
-      "name": "🐻鱼儿🐻"
-    }

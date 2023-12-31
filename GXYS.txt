@@ -114,7 +114,7 @@
     },
     {
       "url": "https://yyds.lltv8.top/yyds.json",
-      "name": "🐻猎狼线路🐻"
+      "name": "🐻猎浪线路🐻"
     },
     {
       "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
@@ -134,7 +134,7 @@
     },
     {
       "url": "http://jin.锦哥哥.love",
-      "name": "🐻锦哥哥🐻"
+      "name": "🐻锦歌🐻"
     },
     {
       "url": "http://39.101.135.137:8080",
@@ -143,7 +143,7 @@
   
     {
       "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json",
-      "name": "🐻摸鱼儿🐻"
+      "name": "🐻鱼儿🐻"
     }
     ]
 }

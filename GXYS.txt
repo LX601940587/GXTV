@@ -70,10 +70,7 @@
     },
    
    
-    {
-      "url": "https://szyyds.cn/tv/x.json",
-      "name": "🐻🐻"
-    },
+    
     
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",

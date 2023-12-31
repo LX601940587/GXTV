@@ -105,16 +105,4 @@
       "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
       "name": "🐻夜余打发🐻"
     },
-    {
-      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
-      "name": "🐻YMZ🐻"
-    },
-    {
-      "url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
-      "name": "🐻圆周率线路🐻"
-    },
-    {
-      "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-      "name": "🐻元兴线路🐻"
-    },
-  
+ 

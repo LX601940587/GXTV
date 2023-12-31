@@ -70,19 +70,19 @@
     },
     {
       "url": "http://52bsj.vip:98/wuai",
-      "name": "🐻吾ai🐻"
+      "name": "🐻🐻"
     },
     {
       "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-      "name": "🐻云星日记🐻"
+      "name": "🐻云🐻"
     },
     {
       "url": "https://szyyds.cn/tv/x.json",
-      "name": "🐻小马🐻"
+      "name": "🐻🐻"
     },
     {
       "url": "http://rihou.cc:88/荷城茶秀",
-      "name": "🐻荷城茶秀🐻"
+      "name": "🐻🐻"
     },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",

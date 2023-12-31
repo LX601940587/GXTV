@@ -106,7 +106,14 @@
       "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
       "name": "🐻夜余打发🐻"
     },
-
+    {
+      "url": "http://jin.锦哥哥.love",
+      "name": "🌟锦哥哥🌟"
+    },
+    {
+      "url": "http://39.101.135.137:8080",
+      "name": "🌟小白龙🌟"
+    },
   
     {
       "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json",

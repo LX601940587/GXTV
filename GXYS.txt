@@ -70,7 +70,7 @@
     },
     {
       "url": "http://52bsj.vip:98/wuai",
-      "name": "🐻吾爱🐻"
+      "name": "🐻吾ai🐻"
     },
     {
       "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",

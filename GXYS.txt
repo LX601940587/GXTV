@@ -118,10 +118,7 @@
       "url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/duanju.json",
       "name": "🐻短剧🐻"
     },
-    {
-      "url": "http://jin.锦哥哥.love",
-      "name": "🐻锦哥哥🐻"
-    },
+  
      {
       "url": "https://codeberg.org/looktv/my/raw/branch/main/ck.json",
       "name": "🐻ck🐻"

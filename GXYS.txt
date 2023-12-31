@@ -114,7 +114,18 @@
       "url": "http://39.101.135.137:8080",
       "name": "🌟小白龙🌟"
     },
-  
+      {
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+      "name": "🌟夜猫子🌟"
+    },
+    {
+      "url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
+      "name": "🌟圆周率线路🌟"
+    },
+    {
+      "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+      "name": "🌟元兴线路🌟"
+    },
     {
       "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json",
       "name": "🐻鱼儿🐻"

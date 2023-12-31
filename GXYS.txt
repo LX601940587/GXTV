@@ -106,6 +106,18 @@
       "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
       "name": "🐻夜余打发🐻"
     },
+     {
+      "url": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json",
+      "name": "🌟4K视界🌟"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "🌟俊佬🌟"
+    },
+    {
+      "url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/duanju.json",
+      "name": "🌟短剧🌟"
+    },
     {
       "url": "http://jin.锦哥哥.love",
       "name": "🌟锦哥哥🌟"

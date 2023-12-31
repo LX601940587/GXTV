@@ -89,20 +89,5 @@
       "url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/duanju.json",
       "name": "🐻短剧🐻"
     },
-    {
-      "url": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/tv.txt",
-      "name": "🐻乐享汇🐻"
-    },
-    {
-      "url": "https://codeberg.org/looktv/my/raw/branch/main/ck.json",
-      "name": "🐻ck🐻"
-    },
-    {
-      "url": "https://yyds.lltv8.top/yyds.json",
-      "name": "🐻烈浪🐻"
-    },
-    {
-      "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
-      "name": "🐻夜余打发🐻"
-    },
+    
  

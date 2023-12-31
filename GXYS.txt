@@ -27,11 +27,11 @@
     },
      {
       "url": "http://pandown.pro/tvbox/tvbox.json",
-      "name": "🐻巧技🐻"
+      "name": "🐻巧儿🐻"
     },
     {
       "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-      "name": "🐻巧技2🐻"
+      "name": "🐻巧儿2🐻"
     },
      {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
@@ -114,15 +114,15 @@
     },
     {
       "url": "https://yyds.lltv8.top/yyds.json",
-      "name": "🐻猎浪线路🐻"
+      "name": "🐻猎浪🐻"
     },
     {
       "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
-      "name": "🐻业余打发🐻"
+      "name": "🐻夜余打发🐻"
     },
     {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
-      "name": "🐻夜猫子🐻"
+      "name": "🐻夜毛子🐻"
     },
     {
       "url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
@@ -138,7 +138,7 @@
     },
     {
       "url": "http://39.101.135.137:8080",
-      "name": "🐻小白龙🐻"
+      "name": "🐻小白🐻"
     },
   
     {

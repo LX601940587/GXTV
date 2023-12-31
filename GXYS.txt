@@ -74,10 +74,7 @@
       "url": "https://szyyds.cn/tv/x.json",
       "name": "🐻小马🐻"
     },
-    {
-      "url": "http://rihou.cc:88/荷城茶秀",
-      "name": "🐻荷城茶秀🐻"
-    },
+   
 
    
     

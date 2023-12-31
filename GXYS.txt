@@ -80,10 +80,7 @@
       "url": "https://szyyds.cn/tv/x.json",
       "name": "🐻🐻"
     },
-    {
-      "url": "http://rihou.cc:88/荷城茶秀",
-      "name": "🐻🐻"
-    },
+    
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "name": "🐻香雅情本地🐻"

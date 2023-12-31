@@ -4,10 +4,7 @@
       "sourceName": "🐻狗熊放映厅1🐻",
       "sourceUrl": "https://gitee.com/gxtv/gxtv/raw/master/GXYS.txt"
     },
-    {
-      "sourceName": "🐻网络接口大全🐻",
-      "sourceUrl": "http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"
-    },
+    
     {
       "sourceName": "🐻狗熊放映厅2🐻",
       "sourceUrl": "https://cloud.lxweb.cn/f/rGwwHE/GXYS.txt"

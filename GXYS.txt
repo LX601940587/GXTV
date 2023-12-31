@@ -122,6 +122,14 @@
       "url": "http://jin.锦哥哥.love",
       "name": "🌟锦哥哥🌟"
     },
+     {
+      "url": "https://codeberg.org/looktv/my/raw/branch/main/ck.json",
+      "name": "🌟ck🌟"
+    },
+    {
+      "url": "https://yyds.lltv8.top/yyds.json",
+      "name": "🌟猎狼线路🌟"
+    },
     {
       "url": "http://39.101.135.137:8080",
       "name": "🌟小白龙🌟"

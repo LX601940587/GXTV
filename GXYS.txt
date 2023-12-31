@@ -39,7 +39,7 @@
     },
     {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
-      "name": "🐻阿里4k-token线路2🐻"
+      "name": "🐻阿里线路🐻"
     },
          {
       "url": "https://raw.liucn.cc/box/m.json",

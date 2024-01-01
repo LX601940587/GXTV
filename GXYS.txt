@@ -37,6 +37,10 @@
       "url": "http://i0k.cn/ztha",
       "name": "🐻挺好🐻"
     },
+     {
+      "url": "https://jihulab.com/bh666/YGBH/-/raw/main/box%E5%8E%9F.json",
+      "name": "🐻月光宝盒🐻"
+    },
     {
       "url": "http://小盒酷玩.xyz:66/禁止贩卖",
       "name": "🐻小盒酷玩🐻"

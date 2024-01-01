@@ -33,6 +33,14 @@
       "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
       "name": "🐻巧儿2🐻"
     },
+    {
+      "url": "http://i0k.cn/ztha",
+      "name": "🐻挺好🐻"
+    },
+    {
+      "url": "http://小盒酷玩.xyz:66/禁止贩卖",
+      "name": "🐻小盒酷玩🐻"
+    },
      {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
       "name": "🐻欧歌🐻"

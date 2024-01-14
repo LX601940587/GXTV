@@ -151,7 +151,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
-      "jar": "./lib/fix1209.jar",
+      "jar": "./lib/fix12210.jar",
       "ext": "http://op.ysdqjs.cn"
     },
       
@@ -162,7 +162,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "./lib/fix1209.jar",
+      "jar": "./lib/fix12210.jar",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
     },
     {
@@ -171,7 +171,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "./lib/fix1209.jar",
+      "jar": "./lib/fix12210.jar",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
     },
     {
@@ -180,7 +180,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "./lib/fix1209.jar",
+      "jar": "./lib/fix12210.jar",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
     },
        {
@@ -189,7 +189,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 1,
-      "jar": "./lib/fix1209.jar",
+      "jar": "./lib/fix12210.jar",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"
     },
     

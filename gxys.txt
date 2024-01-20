@@ -1,19 +1,17 @@
 {
   "storeHouse": [
     {
-      "sourceName": "🐻狗熊放映厅1🐻",
+      "sourceName": "🐻狗熊放映厅🐻",
       "sourceUrl": "https://gitee.com/gxtv/gxtv/raw/master/GXYS.txt"
     },
     
     {
-      "sourceName": "🐻狗熊放映厅2🐻",
-      "sourceUrl": "https://cloud.lxweb.cn/f/rGwwHE/GXYS.txt"
-    },
-    {
-      "sourceName": "🐻狗熊放映厅3🐻",
-      "sourceUrl": "https://pan.shangui.cc/f/BxX4Hp/GXYS.txt"
+      "sourceName": "🐻备用🐻",
+      "sourceUrl": "https://jihulab.com/GXYS/gxtv/-/raw/master/GXYS.txt"
     }
+    
   ]
 }
+
 
 

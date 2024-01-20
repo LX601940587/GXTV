@@ -40,6 +40,19 @@
       "jar": "./lib/lxhfans应用市场.jar"
     },
     {
+      "key": "短剧one",
+      "name": "🐻抖音短视频1",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": "./lib/短剧.json"
+    },
+    {
+      "key": "种子短剧",
+      "name": "🐻抖音短视频2",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod"
+    },
+    {
       "key": "玩偶哥哥",
       "name": "👽玩偶哥哥",
       "type": 3,

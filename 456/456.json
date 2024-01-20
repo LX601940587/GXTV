@@ -41,7 +41,7 @@
     },
      {
       "key": "csp_短剧网香",
-      "name": "🔥 短剧网 ",
+      "name": "🐻 短剧网 ",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -51,7 +51,7 @@
     },
      {
       "key": "短劇",
-      "name": "🐼 短劇",
+      "name": "🐻短劇",
       "type": 3,
       "jar": "./lib/fm.jar;md5;6bf74e9b02f310ddcab9c460b7e0983c",
       "api": "csp_Duanju",
@@ -60,7 +60,7 @@
     },
      {
       "key": "业余采集A",
-      "name": "业余云短剧 ",
+      "name": "🐻业余云短剧 ",
       "type": 1,
       "api": "http://ys.540734621.xyz/api.php/provide/vod/",
       "playerType": 1,

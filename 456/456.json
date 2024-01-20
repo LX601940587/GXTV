@@ -173,7 +173,7 @@
     },
       {
       "key": "meowtv_Mmys",
-      "name": "萌米┃影视",
+      "name": "🐻萌米┃影视",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -183,7 +183,7 @@
     },
         {
       "key": "meowtv_qxys",
-      "name": "秋霞┃影视",
+      "name": "🐻秋霞┃影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -193,7 +193,7 @@
     },
      {
       "key": "meowtv_ssys",
-      "name": "三思┃影视",
+      "name": "🐻三思┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -204,7 +204,7 @@
     },
     {
       "key": "meowtv_348D",
-      "name": "蓝光┃影视",
+      "name": "🐻蓝光┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,

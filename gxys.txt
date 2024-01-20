@@ -1,7 +1,7 @@
 {
   "storeHouse": [
     {
-      "sourceName": "🐻狗熊放映厅🐻",
+      "sourceName": "🐻狗熊放映厅1🐻",
       "sourceUrl": "https://gitee.com/gxtv/gxtv/raw/master/GXYS.txt"
     },
     

@@ -54,6 +54,15 @@
       "api": "http://zzdj.cc/api.php/provide/vod"
     },
     {
+      "key": "一起看 ",
+      "name": "🐻抖音短视频3",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "csp_短剧网香",
       "name": "🐻短剧网[影视]_HK",
       "type": 3,
@@ -636,15 +645,7 @@
  
 
 
-     {
-      "key": "一起看 ",
-      "name": "🐻一起┃App",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+     
     {
       "key": "毛驴",
       "name": "🐻毛驴┃App",

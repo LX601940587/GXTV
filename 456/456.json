@@ -355,7 +355,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
-      "jar": "./lib/fix12210.jar",
+      "jar": "./lib/fix24117.jar",
       "ext": "http://op.ysdqjs.cn"
     },
       
@@ -366,7 +366,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "./lib/fix12210.jar",
+      "jar": "./lib/fix24117.jar",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
     },
     {
@@ -375,7 +375,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "./lib/fix12210.jar",
+      "jar": "./lib/fix24117.jar",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
     },
     {
@@ -384,7 +384,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "./lib/fix12210.jar",
+      "jar": "./lib/fix24117.jar",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
     },
        {
@@ -393,7 +393,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 1,
-      "jar": "./lib/fix12210.jar",
+      "jar": "./lib/fix24117.jar",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"
     },
         {
@@ -405,7 +405,7 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "jar": "./lib/fix12210.jar",
+      "jar": "./lib/fix24117.jar",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
     },
     {
@@ -417,7 +417,7 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "jar": "./lib/fix12210.jar",
+      "jar": "./lib/fix24117.jar",
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
     },
     {
@@ -429,7 +429,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "jar": "./lib/fix12210.jar",
+      "jar": "./lib/fix24117.jar",
       "ext": "http://111.230.51.151:9696/api.php/app/"
     },
       

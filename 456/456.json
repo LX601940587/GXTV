@@ -44,6 +44,7 @@
       "name": "🐻抖音短视频1",
       "type": 3,
       "api": "csp_Panda",
+      "jar": "./lib/PandaQ231205.jar",
       "ext": "./lib/短剧.json"
     },
     {

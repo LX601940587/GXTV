@@ -398,7 +398,7 @@
     },
         {
       "key": "巧技五",
-      "name": "巧技五┃App",
+      "name": "🐻巧技五┃App",
       "type": 3,
       "api": "csp_qiao2",
       "searchable": 1,
@@ -410,7 +410,7 @@
     },
     {
       "key": "超神",
-      "name": "超神┃App",
+      "name": "🐻超神┃App",
       "type": 3,
       "api": "csp_qiao",
       "searchable": 1,
@@ -422,7 +422,7 @@
     },
     {
       "key": "喵播",
-      "name": "喵播┃App",
+      "name": "🐻喵播┃App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -432,16 +432,7 @@
       "jar": "./lib/fix12210.jar",
       "ext": "http://111.230.51.151:9696/api.php/app/"
     },
-      {
-      "key": "看看",
-      "name": "看看┃App",
-      "type": 3,
-      "api": "csp_KanKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "./lib/fix12210.jar",
-      "filterable": 0
-    },
+      
 {
       "key": "乌鸦",
       "name": "🐻乌鸦┃影视",

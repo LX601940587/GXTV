@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "🐻狗熊影视",
+      "name": "狗熊祝大家新年快乐",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"

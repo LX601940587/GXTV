@@ -84,7 +84,8 @@
       "api": "csp_AppMr",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./lib/123.jar"
     },
      {
       "key": "csp_短剧网香",

@@ -7,7 +7,7 @@
     
     {
       "sourceName": "🐻备用🐻",
-      "sourceUrl": "https://jihulab.com/GXYS/gxtv/-/raw/master/GXYS.txt"
+      "sourceUrl": "https://cloud.lxweb.cn/f/rGwwHE/GXYS.txt"
     },
     {
       "sourceName": "🐻网络接口大全🐻",

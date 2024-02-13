@@ -78,6 +78,15 @@
       ]
     },
      {
+      "key": "csp_AppMr",
+      "name": "🐻┃明明┃影视",
+      "type": 3,
+      "api": "csp_AppMr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
       "key": "csp_短剧网香",
       "name": "🐻 短剧网 ",
       "type": 3,

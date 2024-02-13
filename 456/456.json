@@ -77,17 +77,7 @@
         "欧美动漫"
       ]
     },
-     {
-      "key": "csp_AppMr",
-      "name": "🐻┃明明┃影视",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.kf666888.cn/api/tvbox/img",
-      "jar": "./公众号吾爱有三日月与卿0723.jar"
-    },
+    
      {
       "key": "csp_短剧网香",
       "name": "🐻 短剧网 ",

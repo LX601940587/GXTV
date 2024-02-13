@@ -41,7 +41,7 @@
     },
     {
             "key": "zy_iKun资源",
-            "name": "🐻接口iKun",
+            "name": "🐻快无广告",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/",
             "searchable": 1,

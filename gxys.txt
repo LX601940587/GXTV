@@ -8,8 +8,11 @@
     {
       "sourceName": "🐻备用🐻",
       "sourceUrl": "https://jihulab.com/GXYS/gxtv/-/raw/master/GXYS.txt"
+    },
+    {
+      "sourceName": "🐻网络接口大全🐻",
+      "sourceUrl": "http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"
     }
-    
   ]
 }
 

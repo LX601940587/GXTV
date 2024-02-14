@@ -43,7 +43,7 @@
             "key": "zy_iKun资源",
             "name": "🐻快无广告",
             "type": 1,
-            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
@@ -250,7 +250,7 @@
       "key": "xml_火狐",
       "name": "🐻快别信广告",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/",
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,

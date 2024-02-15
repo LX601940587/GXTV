@@ -362,15 +362,7 @@
     },
     
    
-   {
-      "key": "天天",
-      "name": "🐻天天┃App",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "jar": "./lib/fix24117.jar",
-      "ext": "http://op.ysdqjs.cn"
-    },
+  
      {
       "key": "南瓜",
       "name": "🐻南瓜┃App",

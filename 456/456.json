@@ -48,6 +48,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
+      "jar": "./lib/yydf.jar",
       "ext": {
         "站名": "孜然影视",
         "练手": "yydf",

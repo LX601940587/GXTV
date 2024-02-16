@@ -372,38 +372,7 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
-     {
-      "key": "巧技一",
-      "name": "🐻巧技一┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "./lib/fix24117.jar",
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
-    },
-    
-    {
-      "key": "巧技三",
-      "name": "🐻巧技三┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "./lib/fix24117.jar",
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
-    },
-      
-        {
-      "key": "巧技五",
-      "name": "🐻巧技五┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "jar": "./lib/fix24117.jar",
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
-    },
+     
      {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj.jar","searchable":1,"quickSearch":1,"filterable":1},
    
   

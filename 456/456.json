@@ -386,7 +386,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     
+     {"key":"mtv_pc_快看影视","name":"🐻快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
     
      
          

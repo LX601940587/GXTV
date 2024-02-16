@@ -386,9 +386,18 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    
+    {
+            "key": "ZYJK", 
+            "name": "🐻多线过滤", 
+            "type": 1, 
+            "api": "http://film.benmx.com/api.php/tvbox", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        }, 
      
-         
+     {"key":"开心影视","name":"😄开心二站","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心影视.json"},
+    
      
         {
       "key": "meowtv_qxys",

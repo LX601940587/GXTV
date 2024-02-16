@@ -396,8 +396,8 @@
             "filterable": 1
         }, 
      
-     {"key":"开心影视","name":"😄开心二站","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心影视.json"},
-    
+    {"key":"星星","name":"🐻星星之火","type":3,"api":"csp_qiao","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./lib/j.txt?ref_type=heads"},
+    {"key":"天翼资源","name":"🐻多线","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
      
         {
       "key": "meowtv_qxys",

@@ -74,6 +74,16 @@
       }
     },
     {
+      "key": "XAL蓝光",
+      "name": "🐻分享蓝光",
+      "type": 1,
+      "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
+      "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+    {
             "key": "zy_iKun资源",
             "name": "🐻快无广告",
             "type": 1,
@@ -319,6 +329,28 @@
       ]
     },
     {
+      "key": "csp_圣城",
+      "name": "🐻圣城影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/圣城影视.json",
+      "jar": "http://www.wya6.cn/tz/wyxy.php"
+    },
+{
+      "key": "csp_Kuaikan",
+      "name": "🐻快看影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://www.wya6.cn/tz/wyog1.php"
+    },
+
+    {
 			"key": "csp_xml_红牛",
 			"name": "🐻快别信广告2",
 			"type": 1,
@@ -374,7 +406,38 @@
     },
      
      {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj.jar","searchable":1,"quickSearch":1,"filterable":1},
-   
+   {
+      "key": "影视五",
+      "name": "🐻影D影视",
+      "type": 3,
+      "api": "csp_Movie2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/Movie5.json",
+      "jar": "http://www.wya6.cn/tz/wyog.php"
+    },
+    {
+      "key": "云播",
+      "name": "🐻落花",
+      "type": 3,
+      "api": "csp_Skapp",
+      "playerType": 2,
+      "ext": "./lib/yunbo.json",
+      "jar": "http://www.wya6.cn/tz/wyog1.php"
+    },
+     {
+      "key": "csp_好戏",
+      "name": "🐻好戏影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/好戏影视.json",
+      "jar": "http://www.wya6.cn/tz/wyxy.php"
+    },
+
   
      {
       "key": "南瓜",
@@ -1024,7 +1087,18 @@
         "战争片"
       ]
     },
-    
+    {
+      "key": "繁星",
+      "name": "🐻1080繁星",
+      "type": 3,
+      "api": "csp_AppMao",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"
+    },
+
     
 {
       "key": "drpy_js_奇珍异兽",

@@ -1116,6 +1116,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
+            "jar": "./lib/Tong.jar",
             "ext": "./lib/ali.json"
         },
  {
@@ -1125,6 +1126,7 @@
             "api": "csp_MiaoSouAli",
             "searchable": 1,
             "changeable": 1,
+            "jar": "./lib/Tong.jar",
             "ext": "./lib/ali.json"
         },
         {
@@ -1134,6 +1136,7 @@
             "api": "csp_YiSoAli",
             "searchable": 1,
             "changeable": 1,
+            "jar": "./lib/Tong.jar",
             "ext": "./lib/ali.json"
         },
         {
@@ -1143,6 +1146,7 @@
             "api": "csp_UpYun",
             "searchable": 1,
             "changeable": 1,
+            "jar": "./lib/Tong.jar",
             "ext": "./lib/ali.json"
         },
         {
@@ -1152,6 +1156,7 @@
             "api": "csp_PanSou",
             "searchable": 1,
             "changeable": 1,
+            "jar": "./lib/Tong.jar",
             "ext": "./lib/ali.json"
         },
         {
@@ -1161,6 +1166,7 @@
             "api": "csp_PanSearch",
             "searchable": 1,
             "changeable": 1,
+            "jar": "./lib/Tong.jar",
             "ext": "./lib/ali.json"
         },
         {
@@ -1170,6 +1176,7 @@
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
             "changeable": 1,
+            "jar": "./lib/Tong.jar",
             "ext": "./lib/ali.json"
         },
         {
@@ -1179,6 +1186,7 @@
             "api": "csp_Dovx",
             "searchable": 1,
             "changeable": 1,
+            "jar": "./lib/Tong.jar",
             "ext": "./lib/ali.json"
         },
     

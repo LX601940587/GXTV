@@ -29,6 +29,15 @@
       "quickSearch": 1,
       "filterable": 0
     },
+    {
+            "key": "阿里夸克配置",
+            "name": "配置中心",
+            "type": 3,
+            "api": "csp_Settings",
+            "searchable": 0,
+            "changeable": 0,
+             "jar": "./lib/Tong.jar",
+        },
    {
       "key": "应用商店",
       "name": "🏫应用商店",

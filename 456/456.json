@@ -31,13 +31,22 @@
     },
     {
             "key": "阿里夸克配置",
-            "name": "配置中心",
+            "name": "🏫阿里登录1",
             "type": 3,
             "api": "csp_Settings",
             "searchable": 0,
             "changeable": 0,
              "jar": "./lib/Tong.jar"
         },
+        {
+      "key": "AliYunPan",
+      "name": "🏫阿里登录2",
+      "type": 3,
+      "api": "csp_AliYunPan",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+    },
    {
       "key": "应用商店",
       "name": "🏫应用商店",

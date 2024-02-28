@@ -457,7 +457,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./HeChengChaXiu.jar",
+      "jar": "./lib/xu2025.jar",
       "ext": "./lib/运输阿里.json"
     },
          {

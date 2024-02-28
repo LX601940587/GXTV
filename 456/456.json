@@ -440,7 +440,7 @@
     },
      {
       "key": "wwgg",
-      "name": "🅱️玩我阿里|T追剧",
+      "name": "玩我阿里",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -451,13 +451,13 @@
     },
     {
       "key": "yscal",
-      "name": "🅱️运输阿里|T追剧",
+      "name": "运输阿里",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/xu2025.jar",
+      "jar": "./lib/HeChengChaXiu.jar",
       "ext": "./lib/运输阿里.json"
     },
          {

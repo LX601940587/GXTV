@@ -47,7 +47,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "./HeChengChaXiu.jar",
+      "jar": "./lib/20240108.jar",
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     },
    {
@@ -450,7 +450,17 @@
       "filterable": 1,
       "ext": "./lib/玩我哥哥.json"
     },
-    
+    {
+      "key": "影视车",
+      "name": "影视车-4K影院",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "./lib/xu2025.jar",
+      "filterable": 1,
+      "ext": "./lib/影视车.json"
+    },
     {
       "key": "yscal",
       "name": "👽运输阿里",

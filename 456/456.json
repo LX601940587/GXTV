@@ -69,7 +69,26 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
+ {
+      "key": "77",
+      "name": "🐻七七┃App",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+  
+     {
+      "key": "南瓜",
+      "name": "🐻南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "XAL蓝光",
       "name": "🐻分享蓝光",
@@ -519,26 +538,7 @@
       "ext": "./lib/好戏影视.json",
       "jar": "http://www.wya6.cn/tz/wyxy.php"
     },
- {
-      "key": "77",
-      "name": "🐻七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-  
-     {
-      "key": "南瓜",
-      "name": "🐻南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
     {
             "key": "ZYJK", 
             "name": "🐻多线过滤", 

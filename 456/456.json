@@ -3,8 +3,8 @@
 {
   "spider": "./fan.txt",
   "spider": "./fix24225.jar",
-  "spider": "./Tong.jar",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+ 
+  
   "sites": [
     {
       "key": "js豆瓣",

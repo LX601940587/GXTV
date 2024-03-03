@@ -2,6 +2,8 @@
 //Q群：950047846
 {
   "spider": "./fan.txt",
+  "spider": "./fix24225.jar",
+  "spider": "./lib/Tong.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -36,7 +38,7 @@
             "api": "csp_Settings",
             "searchable": 0,
             "changeable": 0,
-             "jar": "./lib/Tong.jar"
+             
         },
       {
       "key": "云盘登录",
@@ -95,7 +97,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-      "jar": "./lib/fix24225.jar",
+      
       "ext": "http://app.kzjtv.com"
     },
      {
@@ -105,7 +107,7 @@
       "api": "csp_KanKan",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./lib/fix24225.jar",
+    
       "filterable": 0
     },
    
@@ -115,7 +117,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-      "jar": "./lib/fix24225.jar",
+     
       "ext": "http://op.ysdqjs.cn"
     },
     {
@@ -124,7 +126,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-      "jar": "./lib/fix24225.jar",
+     
       "ext": "http://v.rbotv.cn"
     },
     
@@ -135,7 +137,7 @@
       "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
       "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
       "searchable": 1,
-      "jar": "./lib/fix24225.jar",
+      
       "quickSearch": 1
     },
     {
@@ -147,41 +149,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "孜然",
-      "name": "🐻狗熊影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "jar": "./lib/yydf.jar",
-      "ext": {
-        "站名": "孜然影视",
-        "练手": "yydf",
-        "类型": "class=\"tag\">&&</div",
-        "导演": "class=\"text\">导演：</span>&&</p",
-        "演员": "<span class=\"text\">主演：</span>&&</p",
-        "播放类型": "class=\"icon icon-video\"></i>立即播放",
-        "更新": "<span class=\"text\">更新：</span>&&</p",
-        "简介": "【🐻狗熊影视】提醒：资源免费，广告勿信！+class=\"text hidden-xs\">简介：</span>&&</p",
-        "搜索Url": "/index.php/vod/search.html",
-        "主页url": "https://www.zrys1.top/",
-        "数组": "<li class=\"col8\">&&</li",
-        "链接": "href=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "<p class=\"text\">&&</p",
-        "线路数组": "<div class=\"panel-hd\">&&</div>",
-        "线路标题": "<h3>&&</h3>[替换:在线播放>>🐻狗熊影视]",
-        "播放数组": "<ul class=\"shoutu-playlist sort-list playlist\">&&</ul>",
-        "选集名称": ">&&<",
-        "分类url": "https://www.zrys1.top/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#港台剧$14#综艺$3#动漫$4#纪录片$22"
-      }
-    },
-  
+    
 
     {
             "key": "zy_iKun资源",
@@ -268,15 +236,7 @@
       "filterable": 1,
       "ext": "./lib/短剧网.json"
     },
-     {
-      "key": "短劇",
-      "name": "🐻短劇",
-      "type": 3,
-      "jar": "./lib/fm.jar;md5;6bf74e9b02f310ddcab9c460b7e0983c",
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "changeable": 0
-    },
+    
      {
       "key": "业余采集A",
       "name": "🐻业余云短剧 ",
@@ -296,14 +256,7 @@
         "体育"
       ]
     },
-    {
-      "key": "短剧one",
-      "name": "🐻抖音短视频1",
-      "type": 3,
-      "api": "csp_Panda",
-      "jar": "./lib/PandaQ231205.jar",
-      "ext": "./lib/短剧.json"
-    },
+  
    
     {
       "key": "一起看 ",
@@ -576,30 +529,11 @@
       "ext": "./lib/yunbo.json",
       "jar": "http://www.wya6.cn/tz/wyog1.php"
     },
-     {
-      "key": "csp_好戏",
-      "name": "🐻好戏影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/好戏影视.json",
-      "jar": "http://www.wya6.cn/tz/wyxy.php"
-    },
+    
 
-    {
-            "key": "ZYJK", 
-            "name": "🐻多线过滤", 
-            "type": 1, 
-            "api": "http://film.benmx.com/api.php/tvbox", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1
-        }, 
+    
      
-    {"key":"星星","name":"🐻星星之火","type":3,"api":"csp_qiao","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./lib/j.txt?ref_type=heads"},
-    {"key":"天翼资源","name":"🐻多线","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+   
      
         {
       "key": "meowtv_qxys",
@@ -682,18 +616,7 @@
       ]
     },
    
-    {
-      "key": "csp_XBPQ_多剧",
-      "name": "🐻剧多🏰观影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-       "jar": "./lib/wuya.jar",
-      "ext": "{\"免嗅\":\"1\",\"演员\":\"主演：&&</div>\",\"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",\"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"
-    },
-    
+ 
      
      
     
@@ -702,17 +625,6 @@
     
    
 
-    
-        {
-      "key": "vip",
-      "name": "🐻超前┃点播",
-      "type": 3,
-      "playerType": 1,
-      "api": "./lib/drpy2.min.js",
-      "jar": "./lib/xiaohe.jar",
-      "ext": "./lib/超前点播.js"
-    },
-   
     
  
     
@@ -1022,18 +934,7 @@
     },
     
    
-    {
-      "key": "骑骑影院",
-      "name": "🐻┃骑骑┃2K",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/",
-      "jar": "./lib/yingyintiantang.jar"
-    },
+  
 
     {
       "key": "火狐电影",
@@ -1197,17 +1098,7 @@
         "战争片"
       ]
     },
-    {
-      "key": "繁星",
-      "name": "🐻1080繁星",
-      "type": 3,
-      "api": "csp_AppMao",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"
-    },
+  
     
  {
             "key": "阿里|秒搜",

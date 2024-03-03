@@ -108,14 +108,7 @@
       "jar": "./lib/fix24225.jar",
       "filterable": 0
     },
-    {
-      "key": "发电",
-      "name": "🐻发电┃App",
-      "type": 3,
-      "api": "csp_Fdys",
-      "playerType": 2,
-      "jar": "./lib/fix24225.jar"
-    },
+   
       {
       "key": "天天",
       "name": "🐻天天┃App",
@@ -134,15 +127,7 @@
       "jar": "./lib/fix24225.jar",
       "ext": "http://v.rbotv.cn"
     },
-     {
-      "key": "柠檬",
-      "name": "🐻柠檬┃App",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "./lib/fix24225.jar",
-      "ext": "https://api.cnmcom.com/webcloud/nmsvip.php?url="
-    },
+    
       {
       "key": "K影",
       "name": "🐻K影院┃App",

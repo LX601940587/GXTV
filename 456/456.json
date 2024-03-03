@@ -61,6 +61,16 @@
       "jar": "./lib/lxhfans应用市场.jar"
     },
     {
+      "key": "酷看",
+      "name": "🐻酷看┃秒播",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+    {
       "key": "XAL蓝光",
       "name": "🐻分享蓝光",
       "type": 1,
@@ -226,12 +236,7 @@
       "jar": "./lib/PandaQ231205.jar",
       "ext": "./lib/短剧.json"
     },
-    {
-      "key": "种子短剧",
-      "name": "🐻抖音短视频2",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod"
-    },
+   
     {
       "key": "一起看 ",
       "name": "🐻抖音短视频3",
@@ -713,15 +718,7 @@
         "欧美综艺"
       ]
     },
-  {
-      "key": "星星",
-      "name": "🐻星星┃App",
-      "type": 3,
-      "api": "csp_Appto",
-      "playerType": 2,
-      "jar": "./lib/qiaoji.jar",
-      "ext": "DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY="
-    },
+
 
  {"key":"光速资源","name":"🐻光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
@@ -801,27 +798,6 @@
             ]
         },
 
-{"key":"csp_SixV","name":"💕6V","type":3,"api":"csp_SixV","jar":"./lib/candymuj.jar","searchable":1, "ext": "https://www.6vdy.org/"},
-
-
- 
-
-
-     
- 
-
- 
-
-       {
-      "key": "Mp4电影",
-      "name": "🧲磁力｜Mp4电影",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar": "./lib/spider.jar"
-    },
 
   {
       "key": "csp_xml_ikun",

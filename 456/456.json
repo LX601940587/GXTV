@@ -63,6 +63,20 @@
       "jar": "./lib/lxhfans应用市场.jar"
     },
     {
+    "key":"宇宙",
+    "name":"🐻宇宙4K自营",
+    "type":3,
+    "api":"csp_Lvdou",
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":1,
+    "timeout":30,
+    "playerType":1,
+    "jar":"http://101.200.184.252/fm.jar",
+    "ext":{ "server":"http://ds1.yuzhoukeji.top/api.php/app/", "mackey":"btC11NMbhWho2LsL|vZfPqkHE71Epi167",
+        "danmu":true
+    }},
+    {
       "key": "xh",
       "name": "🐻自营┃剧集",
       "type": 1,

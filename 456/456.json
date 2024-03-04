@@ -72,7 +72,7 @@
     "filterable":1,
     "timeout":30,
     "playerType":1,
-    "jar":"http://101.200.184.252/fm.jar",
+    "jar":"./lib/fm.jar",
     "ext":{ "server":"http://ds1.yuzhoukeji.top/api.php/app/", "mackey":"btC11NMbhWho2LsL|vZfPqkHE71Epi167",
         "danmu":true
     }},

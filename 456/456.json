@@ -63,6 +63,21 @@
       "jar": "./lib/lxhfans应用市场.jar"
     },
     {
+      "key": "xh",
+      "name": "🐻自营┃剧集",
+      "type": 1,
+      "playerType": 3,
+      "api": "http://cc.xzam.cn/api.php/provide/vod/",
+      "playUrl": ""
+    },
+    {
+      "key": "tg",
+      "name": "🐄放牛┃影探",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "jar": "./lib/tg.jar"
+    },
+    {
       "key": "酷看",
       "name": "🐻酷看┃秒播",
       "type": 3,

@@ -6,7 +6,7 @@
             "name": "👑狗熊影视"
         },
          {
-            "url": "https://codeberg.org/GXTV/gxys/src/branch/main/456.json",
+            "url": "https://codeberg.org/GXTV/gxys/raw/branch/main/456.json",
             "name": "临时4K影视"
         },
   

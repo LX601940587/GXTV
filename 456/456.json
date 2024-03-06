@@ -31,27 +31,8 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-            "key": "阿里夸克配置",
-            "name": "🏫阿里登录1",
-            "type": 3,
-            "api": "csp_Settings",
-            "searchable": 0,
-            "changeable": 0,
-             "jar": "./lib/Tong.jar"
-        },
-      {
-      "key": "云盘登录",
-      "name": "阿里云盘登录",
-      "type": 3,
-      "api": "csp_AliYunPan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "./lib/20240108.jar",
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
+   {"key":"阿里云盘登录","name":"🏫阿里云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+   
    {
       "key": "应用商店",
       "name": "🏫应用商店",
@@ -107,15 +88,8 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "追剧",
-      "name": "🐻追剧┃App",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "jar": "./fix24225.jar",
-      "ext": "http://app.kzjtv.com"
-    },
+    {"key":"追剧","name":"🐻追剧┃影视","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com"},
+  {"key":"胡胡","name":"💡胡胡┃影视","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0},
      {
       "key": "看看",
       "name": "🐻看看┃App",
@@ -468,62 +442,14 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
-     {
-            "key": "阿里|玩偶",
-            "name": "👽阿里|玩偶",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "jar": "./lib/Tong.jar",
-            "ext": "./lib/ali.json"
-        },
-        {
-      "key": "夏木徐",
-      "name": "👽玩我哥哥-4K影院",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "playerType": 1,
-      "jar": "./lib/xu2025.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/玩我哥哥.json"
-    },
-    {
-      "key": "影视车",
-      "name": "👽影视车-4K影院",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "./lib/xu2025.jar",
-      "filterable": 1,
-      "ext": "./lib/影视车.json"
-    },
-    {
-      "key": "yscal",
-      "name": "👽运输阿里",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "./lib/xu2025.jar",
-      "ext": "./lib/运输阿里.json"
-    },
-         {
-            "key": "阿里|云搜",
-            "name": "阿里|云搜",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./lib/Tong.jar",
-            "ext": "./lib/ali.json"
-        },
+    {"key":"️玩偶哥","name":"👽玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wog.json"},
+{"key":"️玩偶弟","name":"👽玩偶弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wod.json"},
+{"key":"️玩偶姐","name":"👽玩偶姐┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/woj.json"},
+{"key":"️玩偶妹","name":"👽玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wom.json"},
+{"key":"️玩偶歌","name":"👽玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wou.json"},
+
+    
+       
      {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj.jar","searchable":1,"quickSearch":1,"filterable":1},
    {
       "key": "影视五",
@@ -1116,68 +1042,7 @@
     },
   
     
- {
-            "key": "阿里|秒搜",
-            "name": "阿里|秒搜",
-            "type": 3,
-            "api": "csp_MiaoSouAli",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./lib/Tong.jar",
-            "ext": "./lib/ali.json"
-        },
-        {
-            "key": "阿里|易搜",
-            "name": "阿里|易搜",
-            "type": 3,
-            "api": "csp_YiSoAli",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./lib/Tong.jar",
-            "ext": "./lib/ali.json"
-        },
-       
-        {
-            "key": "阿里|盘搜",
-            "name": "阿里|盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./lib/Tong.jar",
-            "ext": "./lib/ali.json"
-        },
-        {
-            "key": "阿里|盘搜索",
-            "name": "阿里|盘搜索",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./lib/Tong.jar",
-            "ext": "./lib/ali.json"
-        },
-        {
-            "key": "阿里|小纸条",
-            "name": "阿里|小纸条",
-            "type": 3,
-            "api": "csp_XiaoZhiTiao",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./lib/Tong.jar",
-            "ext": "./lib/ali.json"
-        },
-        {
-            "key": "阿里|七夜",
-            "name": "阿里|七夜",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./lib/Tong.jar",
-            "ext": "./lib/ali.json"
-        },
-    
+
 {
       "key": "drpy_js_奇珍异兽",
       "name": "🐻不太好用",

@@ -69,18 +69,25 @@
       "quickSearch": 1,
       "changeable": 1
     },
-  
     {
-      "key": "南瓜",
-      "name": "🐻南瓜┃App",
+      "key": "酷看",
+      "name": "🐻酷看",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_NanGua",
+      "name": "🎃南瓜",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
       "quickSearch": 1,
-      "playerType": 2,
       "filterable": 1,
-      "jar": "./fix24225.jar",
-      "ext": ""
+      "changeable": 1
     },
     {
       "key": "追剧",

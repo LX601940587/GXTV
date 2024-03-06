@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。请勿相信视频内的网址，和本人无关。[所有内容仅供学习免费使用，请勿传播售卖以及商用，用于违法用途]
 //Q群：950047846
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
+    "spider": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b",
   
  
   
@@ -59,15 +59,7 @@
       "api": "csp_Fangniu4k",
       "jar": "./lib/tg.jar"
     },
-    {
-      "key": "酷看",
-      "name": "🐻酷看┃秒播",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+    
  {
       "key": "77",
       "name": "🐻七七┃App",
@@ -78,16 +70,7 @@
       "changeable": 1
     },
   
-     {
-      "key": "南瓜",
-      "name": "🐻南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+   {"key":"南瓜影视","name":"🐻南瓜┃影视","type":3,"api":"./lib/nxog.js","ext":"./lib/101.js"},
     {
       "key": "追剧",
       "name": "🐻追剧┃App",

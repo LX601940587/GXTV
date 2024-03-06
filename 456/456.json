@@ -31,7 +31,19 @@
       "quickSearch": 1,
       "filterable": 0
     },
-   {"key":"阿里云盘登录","name":"🏫阿里云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+   {
+      "key": "云盘登录",
+      "name": "阿里云盘登录",
+      "type": 3,
+      "api": "csp_AliYunPan",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "./lib/20240108.jar",
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
+    },
+
    
    {
       "key": "应用商店",
@@ -148,6 +160,40 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
+    {
+      "key": "夏木徐",
+      "name": "👽玩我哥哥-4K影院",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "playerType": 1,
+      "jar": "./lib/xu2025.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/玩我哥哥.json"
+    },
+     {
+      "key": "wwgg",
+      "name": "👽玩我阿里",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./lib/xu2025.jar",
+      "ext": "./lib/玩我哥哥.json"
+    },
+      {
+      "key": "影视车",
+      "name": "👽影视车-4K影院",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "./lib/xu2025.jar",
+      "filterable": 1,
+      "ext": "./lib/影视车.json"
     },
     {"key":"️玩偶哥","name":"👽玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/jar.php","ext":"./lib/wog.json"},
 {"key":"️玩偶弟","name":"👽玩偶弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/jar.php","ext":"./lib/wod.json"},

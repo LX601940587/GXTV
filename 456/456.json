@@ -89,7 +89,7 @@
       "changeable": 1
     },
     {"key":"追剧","name":"🐻追剧┃影视","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com"},
-  {"key":"胡胡","name":"💡胡胡┃影视","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0},
+  {"key":"胡胡","name":"🐻胡胡┃影视","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0},
      {
       "key": "看看",
       "name": "🐻看看┃App",
@@ -130,6 +130,21 @@
       "jar": "./fix24225.jar",
       "quickSearch": 1
     },
+    {
+      "key": "玩偶哥哥",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
+    {"key":"️玩偶哥","name":"👽玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wog.json"},
+{"key":"️玩偶弟","name":"👽玩偶弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wod.json"},
+{"key":"️玩偶姐","name":"👽玩偶姐┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/woj.json"},
+{"key":"️玩偶妹","name":"👽玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wom.json"},
+{"key":"️玩偶歌","name":"👽玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wou.json"},
     {
       "key": "XAL蓝光",
       "name": "🐻分享蓝光",
@@ -432,21 +447,7 @@
 				"欧美综艺"
 			]
 		},
-       {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
-    {"key":"️玩偶哥","name":"👽玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wog.json"},
-{"key":"️玩偶弟","name":"👽玩偶弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wod.json"},
-{"key":"️玩偶姐","name":"👽玩偶姐┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/woj.json"},
-{"key":"️玩偶妹","name":"👽玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wom.json"},
-{"key":"️玩偶歌","name":"👽玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wou.json"},
+       
 
     
        

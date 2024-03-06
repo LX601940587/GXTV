@@ -148,11 +148,11 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
-    {"key":"️玩偶哥","name":"👽玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wog.json"},
-{"key":"️玩偶弟","name":"👽玩偶弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wod.json"},
-{"key":"️玩偶姐","name":"👽玩偶姐┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/woj.json"},
-{"key":"️玩偶妹","name":"👽玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wom.json"},
-{"key":"️玩偶歌","name":"👽玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wou.json"},
+    {"key":"️玩偶哥","name":"👽玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/jar.php","ext":"./lib/wog.json"},
+{"key":"️玩偶弟","name":"👽玩偶弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/jar.php","ext":"./lib/wod.json"},
+{"key":"️玩偶姐","name":"👽玩偶姐┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/jar.php","ext":"./lib/woj.json"},
+{"key":"️玩偶妹","name":"👽玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/jar.php","ext":"./lib/wom.json"},
+{"key":"️玩偶歌","name":"👽玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/jar.php","ext":"./lib/wou.json"},
     {
       "key": "XAL蓝光",
       "name": "🐻分享蓝光",

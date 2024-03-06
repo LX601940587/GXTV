@@ -5,10 +5,7 @@
             "url": "https://gitee.com/gxtv/gxtv/raw/master/456/456.json",
             "name": "👑狗熊影视"
         },
-         {
-            "url": "https://codeberg.org/GXTV/gxys/raw/branch/main/456.json",
-            "name": "临时4K影视"
-        },
+       
   
          {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&321&b=欧歌",

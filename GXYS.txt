@@ -5,7 +5,15 @@
             "url": "https://gitee.com/gxtv/gxtv/raw/master/456/456.json",
             "name": "👑狗熊影视"
         },
-       
+        {
+            "url": "http://bp.tvbox.cam",
+            "name": "影视资源站"
+        },
+ {
+            "url": "https://gitee.com/dongchenys/liu/raw/master/zy.json",
+            "name": "东辰影视"
+        },
+
   
          {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&321&b=欧歌",

@@ -88,8 +88,16 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {"key":"追剧","name":"🐻追剧┃影视","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com"},
-  {"key":"胡胡","name":"🐻胡胡┃影视","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0},
+    {
+      "key": "追剧",
+      "name": "🐻追剧┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "jar": "./fix24225.jar",
+      "ext": "http://app.kzjtv.com"
+    },
+
      {
       "key": "看看",
       "name": "🐻看看┃App",

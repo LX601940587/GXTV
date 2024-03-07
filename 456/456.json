@@ -76,13 +76,18 @@
       "api": "http://cc.xzam.cn/api.php/provide/vod/",
       "playUrl": ""
     },
-    {
-      "key": "tg",
-      "name": "🐻影探",
+        {
+      "key": "fn",
+      "name": "🐻放牛4k",
       "type": 3,
       "api": "csp_Fangniu4k",
-      "jar": "./lib/tg.jar"
-    },
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"},
+      {"key": "阿里云集合","name": "📕阿里集合","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "https://notabug.org/ygfxz/6/raw/main/is/阿里集合.json;https://agit.ai/66666/mao2/raw/branch/main/jar/tk.php","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/阿里.jar"},  
     {
         "key": "hh",
         "name": "🐻影视|胡胡",

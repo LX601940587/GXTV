@@ -64,18 +64,7 @@
       "api": "http://cc.xzam.cn/api.php/provide/vod/",
       "playUrl": ""
     },
-        {
-      "key": "fn",
-      "name": "🐻放牛4k",
-      "type": 3,
-      "api": "csp_Fangniu4k",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "playerType": 1,
-      "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"},
-       {"key":"csp_CandyMuj_freeok","name":"🐻FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Fr.jar"},
+       
     
  {
       "key": "77",

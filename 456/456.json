@@ -136,7 +136,17 @@
       "jar": "./fix24225.jar",
       "ext": "http://app.kzjtv.com"
     },
-
+  {
+      "key": "快看",
+      "name": "🐻快看┃直连",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "jar": "./fix24225.jar",
+      "filterable": 1
+    },
      {
       "key": "看看",
       "name": "🐻看看┃App",

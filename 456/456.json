@@ -55,19 +55,7 @@
       "ext": "https://pan.shangui.cc/f/Na3qIj/yysd2.json",
       "jar": "./lib/lxhfans应用市场.jar"
     },
-    {
-      "key": "AList",
-      "name": "网盘📕雅雅",
-      "type": 3,
-      "api": "csp_AListBox",
-      "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://d.kstore.space/download/6474/tvbox/json/xy.json#公众号:影视资源站",
-      "style": {
-        "type": "list"
-      }
-    },
+   
     {
       "key": "xh",
       "name": "🐻自营┃剧集",

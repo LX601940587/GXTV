@@ -532,7 +532,7 @@
 
     
        
-     {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj.jar","searchable":1,"quickSearch":1,"filterable":1},
+     {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj2.jar","searchable":1,"quickSearch":1,"filterable":1},
    {
       "key": "影视五",
       "name": "🐻影D影视",

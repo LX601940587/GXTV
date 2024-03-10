@@ -59,15 +59,15 @@
       "key": "种子短剧",
       "name": "种子💮短剧",
       "type": 3,
-      "api": "./js/drpy3.min.js",
-      "ext": "./js/zhongzi.js"
+      "api": "./lib/drpy3.min.js",
+      "ext": "./lib/zhongzi.js"
     },
     {
       "key": "短剧",
       "name": "one🥰短剧",
       "type": 3,
       "api": "csp_Duanju",
-      "jar": "./lib/pg.jar",
+      "jar": "./lib/pg2.jar",
       "searchable": 0,
       "changeable": 1,
       "ext": "https://www.duanjutv.icu"

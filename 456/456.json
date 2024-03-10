@@ -55,7 +55,35 @@
       "changeable": 1
     },
 
-   
+   //道长
+    {
+      "key": "drpy_js_360影视",
+      "name": "🧡┃360┃官源",
+      "type": 3,
+      "api": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/360%E5%BD%B1%E8%A7%86.js"
+    },
+    
+     {
+      "key": "初恋资源",
+      "name": "🧡┃初恋┃官源",
+      "type": 1,
+      "api": "https://video.adminqt.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+    {
+      "key": "小柚",
+      "name": "🍊┃小柚┃App",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
+    },
+
     
     {
       "key": "xh",

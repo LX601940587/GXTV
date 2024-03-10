@@ -44,6 +44,7 @@
       "ext": "https://pan.shangui.cc/f/Na3qIj/yysd2.json",
       "jar": "./lib/lxhfans应用市场.jar"
     },
+     {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj2.jar","searchable":1,"quickSearch":1,"filterable":1},
    {
       "key": "原创",
       "name": "🐻原创",
@@ -97,7 +98,16 @@
         "filterable": 0,
         "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
     },
-    {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj2.jar","searchable":1,"quickSearch":1,"filterable":1},
+     {
+      "key": "萌米",
+      "name": "🐻萌米",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+   
     {
       "key": "csp_Bdys",
       "name": "🐻哔嘀",

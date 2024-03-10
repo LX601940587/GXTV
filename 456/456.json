@@ -31,18 +31,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-   {
-      "key": "云盘登录",
-      "name": "阿里云盘登录",
-      "type": 3,
-      "api": "csp_AliYunPan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "./lib/20240108.jar",
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
+  
 
    
    {
@@ -61,7 +50,7 @@
     
     {
       "key": "xh",
-      "name": "🐻自营┃剧集",
+      "name": "🐻自营",
       "type": 1,
       "playerType": 3,
       "api": "http://cc.xzam.cn/api.php/provide/vod/",
@@ -80,7 +69,7 @@
       "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"},
      {
         "key": "hh",
-        "name": "🐻影视|胡胡",
+        "name": "🐻胡胡",
         "type": 3,
         "api": "csp_WebHH",
         "searchable": 1,
@@ -92,7 +81,7 @@
     
  {
       "key": "77",
-      "name": "🐻七七┃App",
+      "name": "🐻七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -121,7 +110,7 @@
     },
     {
       "key": "追剧",
-      "name": "🐻追剧┃App",
+      "name": "🐻追剧",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -131,7 +120,7 @@
  
      {
       "key": "看看",
-      "name": "🐻看看┃App",
+      "name": "🐻看看",
       "type": 3,
       "api": "csp_KanKan",
       "searchable": 1,
@@ -142,7 +131,7 @@
    
       {
       "key": "天天",
-      "name": "🐻天天┃App",
+      "name": "🐻天天",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -151,7 +140,7 @@
     },
     {
       "key": "热播",
-      "name": "🐻热播┃App",
+      "name": "🐻热播",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -161,7 +150,7 @@
     
       {
       "key": "K影",
-      "name": "🐻K影院┃App",
+      "name": "🐻K影院",
       "type": 1,
       "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
       "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
@@ -171,7 +160,7 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "👽玩偶哥哥",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -250,7 +239,7 @@
         },
          {
             "key": "量子",
-            "name": "🐻┃量子",
+            "name": "🐻量子",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod",
             "searchable": 1,
@@ -265,7 +254,7 @@
    
     {
       "key": "csp_圣城",
-      "name": "🐻圣城影视",
+      "name": "🐻圣城",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -276,7 +265,7 @@
     },
 {
       "key": "csp_Kuaikan",
-      "name": "🐻快看影视",
+      "name": "🐻快看",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -292,7 +281,7 @@
      
    {
       "key": "影视五",
-      "name": "🐻影D影视",
+      "name": "🐻影D",
       "type": 3,
       "api": "csp_Movie2",
       "searchable": 1,
@@ -310,7 +299,7 @@
      
         {
       "key": "meowtv_qxys",
-      "name": "🐻秋霞┃影视",
+      "name": "🐻秋霞",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -320,7 +309,7 @@
     },
      {
       "key": "meowtv_ssys",
-      "name": "🐻三思┃影视",
+      "name": "🐻三思",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -331,7 +320,7 @@
     },
     {
       "key": "meowtv_348D",
-      "name": "🐻蓝光┃影视",
+      "name": "🐻蓝光",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -360,7 +349,7 @@
    
    {
       "key": "tvbsk",
-      "name": "🐻┃TVB云播┃",
+      "name": "🐻云播",
       "type": 3,
       "api": "csp_Skapp",
       "playerType": 2,
@@ -379,7 +368,7 @@
 
   {
       "key": "csp_xml_ikun",
-      "name": "🐻爱坤采集",
+      "name": "🐻爱坤",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
@@ -429,7 +418,7 @@
     
     {
       "key": "鑫鑫影视",
-      "name": "🐻鑫鑫影视",
+      "name": "🐻鑫鑫",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,

@@ -55,17 +55,9 @@
       "ext": "https://pan.shangui.cc/f/Na3qIj/yysd2.json",
       "jar": "./lib/lxhfans应用市场.jar"
     },
-    {"key":"横版影院","name":"🐻短视频5","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
-      {
-      "key": "种子短剧",
-      "name": "🐻短视频4",
-      "type": 3,
-      "api": "./lib/drpy3.min.js",
-      "ext": "./lib/zhongzi.js"
-    },
     {
       "key": "短剧",
-      "name": "🐻短视频3",
+      "name": "🐻短视频1（无广）",
       "type": 3,
       "api": "csp_Duanju",
       "jar": "./lib/pg2.jar",
@@ -73,9 +65,27 @@
       "changeable": 1,
       "ext": "https://www.duanjutv.icu"
     },
+    {
+      "key": "种子短剧",
+      "name": "🐻抖短剧2（无广）",
+      "type": 3,
+      "api": "./lib/drpy3.min.js",
+      "ext": "./lib/zhongzi.js"
+    },
+    {"key":"横版影院","name":"🐻抖短剧3（无广）","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+      
+    {
+      "key": "一起看 ",
+      "name": "🐻抖短剧4（快有广）",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
    {
       "key": "业余采集A",
-      "name": "🐻短视频1 ",
+      "name": "🐻抖短剧5（有广） ",
       "type": 1,
       "api": "http://ys.540734621.xyz/api.php/provide/vod/",
       "playerType": 1,
@@ -94,15 +104,7 @@
     },
   
    
-    {
-      "key": "一起看 ",
-      "name": "🐻短视频2",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+    
     {
       "key": "xh",
       "name": "🐻自营┃剧集",

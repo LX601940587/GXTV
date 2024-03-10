@@ -85,7 +85,7 @@
       "api": "csp_Bdys",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"./lib/candymuj2.jar",
+      "jar":"./lib/ttkx.jar",
       "filterable": 1
     },
     

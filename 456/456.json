@@ -89,13 +89,14 @@
         "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
     },
      {
-      "key": "萌米",
-      "name": "🐻萌米",
+      "key": "小柚",
+      "name": "🐻小柚",
       "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
     },
    
     {

@@ -44,6 +44,16 @@
       "ext": "https://pan.shangui.cc/f/Na3qIj/yysd2.json",
       "jar": "./lib/lxhfans应用市场.jar"
     },
+    {
+      "key": "玩偶哥哥",
+      "name": "👽玩偶哥哥",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
      {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj2.jar","searchable":1,"quickSearch":1,"filterable":1},
    {
       "key": "原创",
@@ -189,16 +199,7 @@
       "jar": "./fix24225.jar",
       "quickSearch": 1
     },
-    {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
+    
     
    
     

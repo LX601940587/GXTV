@@ -56,7 +56,7 @@
     },
      {
       "key": "短剧",
-      "name": "🐻短剧",
+      "name": "🐻短剧1",
       "type": 3,
       "api": "csp_Duanju",
       "searchable": 1,
@@ -493,16 +493,7 @@
       "api": "./lib/ddrpy2.m.js",
       "ext": "./lib/爱奇.js"
     },
-     {
-      "key": "短剧",
-      "name": "🐻短视频1（无广）",
-      "type": 3,
-      "api": "csp_Duanju",
-      "jar": "./lib/pg2.jar",
-      "searchable": 0,
-      "changeable": 1,
-      "ext": "https://www.duanjutv.icu"
-    },
+     
     {
       "key": "种子短剧",
       "name": "🐻抖短剧2（无广）",

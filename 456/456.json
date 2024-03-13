@@ -73,7 +73,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj2.jar","searchable":1,"quickSearch":1,"filterable":1},
+    
       {
       "key": "AList",
       "name": "🐻狗熊影视网盘",
@@ -503,7 +503,7 @@
       "api": "./lib/ddrpy2.m.js",
       "ext": "./lib/爱奇.js"
     },
-     
+      {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj2.jar","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "种子短剧",
       "name": "🐻抖短剧2（无广）",

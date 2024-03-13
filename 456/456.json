@@ -76,7 +76,7 @@
      {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj2.jar","searchable":1,"quickSearch":1,"filterable":1},
       {
       "key": "AList",
-      "name": "🐻网盘",
+      "name": "🐻狗熊影视网盘",
       "type": 3,
       "api": "csp_AList",
       "jar": "./lib/smdy.jar",

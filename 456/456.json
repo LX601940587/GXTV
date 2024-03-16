@@ -504,6 +504,10 @@
       "ext": "./lib/爱奇.js"
     },
       {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj2.jar","searchable":1,"quickSearch":1,"filterable":1},
+      {"key":"短剧网","name":"🐞短剧1┃短剧","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"changeable":1},
+
+{"key":"短剧","name":"🐞短剧3┃短剧","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod"},
+{"key":"短剧侠","name":"🐞短剧4┃短剧","type":3,"api":"csp_XBPQ","ext":{	"站名":"短剧侠1","主页url":"https://www.duanjuxia.cn/","分类":"快手$21#抖音$22#都市$23#古装$24#重生$25#逆袭$26#虐恋$27#萌宝$28#言情$29#穿越$30#战神$31#神医$32#赘婿$33#甜宠$34#其他$35","搜索url":"https://www.duanjuxia.cn/index.php/vod/search.html?wd={wd}","分类url":"https://www.duanjuxia.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"}},
     {
       "key": "种子短剧",
       "name": "🐻抖短剧2（无广）",

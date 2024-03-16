@@ -13,7 +13,29 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
     },
-    {"key":"dr_ikanbot","name":"爱看｜BOT","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
+     {
+            "key": "老船长影院",
+            "name": "老船长影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://www.lczgy.com/",
+                "数组": "col-lg-2 col-md-4 col-6&&</article>",
+                "图片": "data-src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "</i>&&</a >",
+                "简介": "padding:10px 10px;\"><p>&&</p >",
+                "链接": "href=\"&&\"",
+                "跳转播放链接": "var vid=*var now=\"&&\"",
+                "搜索url": "https://www.lczgy.com/search.php?cat=/search.php&searchword={wd}",
+                "分类url": "https://www.lczgy.com/frim/index{cateId}-{catePg}.html",
+                "分类": "电影&电视剧&理论片",
+                "分类值": "1&2&3"
+            }
+        },
     {
       "key": "豆瓣",
       "name": "请勿相信视频内的网址",

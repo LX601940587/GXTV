@@ -504,22 +504,21 @@
       "ext": "./lib/爱奇.js"
     },
       {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj2.jar","searchable":1,"quickSearch":1,"filterable":1},
-      {"key":"短剧网","name":"🐻抖短剧1","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"changeable":1,jar":"https://vip.nxog.top/jar.php?id=ou;md5;10e0197bf1b477a4eefa78b71aef687e"},
+     
 
 
-{"key":"短剧侠","name":"🐻抖短剧2","type":3,"api":"csp_XBPQ","ext":{	"站名":"短剧侠1","主页url":"https://www.duanjuxia.cn/","分类":"快手$21#抖音$22#都市$23#古装$24#重生$25#逆袭$26#虐恋$27#萌宝$28#言情$29#穿越$30#战神$31#神医$32#赘婿$33#甜宠$34#其他$35","搜索url":"https://www.duanjuxia.cn/index.php/vod/search.html?wd={wd}",jar":"https://vip.nxog.top/jar.php?id=ou;md5;10e0197bf1b477a4eefa78b71aef687e","分类url":"https://www.duanjuxia.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"}},
     {
       "key": "种子短剧",
-      "name": "🐻抖短剧3（无广）",
+      "name": "🐻抖短剧2（无广）",
       "type": 3,
       "api": "./lib/drpy3.min.js",
       "ext": "./lib/zhongzi.js"
     },
-    {"key":"横版影院","name":"🐻抖短剧4（无广）","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+    {"key":"横版影院","name":"🐻抖短剧3（无广）","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
       
     {
       "key": "一起看 ",
-      "name": "🐻抖短剧5（快有广）",
+      "name": "🐻抖短剧4（快有广）",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -528,7 +527,7 @@
     },
    {
       "key": "业余采集A",
-      "name": "🐻抖短剧6（有广） ",
+      "name": "🐻抖短剧5（有广） ",
       "type": 1,
       "api": "http://ys.540734621.xyz/api.php/provide/vod/",
       "playerType": 1,

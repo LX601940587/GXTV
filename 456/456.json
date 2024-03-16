@@ -1317,15 +1317,5 @@
       ]
     }
   ],
-  "lives": [
-    {
-      "name": "狗熊直播",
-      "type": 0,
-      "url": "./lib/live.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ]
+  "lives":[{"name":"live","type":0,"url":"http://a.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}]
 }

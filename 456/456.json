@@ -120,35 +120,8 @@
    
 
     
-    {
-      "key": "xh",
-      "name": "🐻自营",
-      "type": 1,
-      "playerType": 3,
-      "api": "http://cc.xzam.cn/api.php/provide/vod/",
-      "playUrl": ""
-    },
-   {
-      "key": "fn",
-      "name": "🐻放牛4k",
-      "type": 3,
-      "api": "csp_Fangniu4k",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "playerType": 1,
-      "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"},
-     {
-        "key": "hh",
-        "name": "🐻胡胡",
-        "type": 3,
-        "api": "csp_WebHH",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar"
-    },
+   
+  
      {
       "key": "小柚",
       "name": "🐻小柚",
@@ -240,16 +213,7 @@
       "ext": "http://v.rbotv.cn"
     },
     
-      {
-      "key": "K影",
-      "name": "🐻K影院",
-      "type": 1,
-      "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
-      "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
-      "searchable": 1,
-      "jar": "./fix24225.jar",
-      "quickSearch": 1
-    },
+    
     
     
    
@@ -346,33 +310,13 @@
       "ext": "./lib/圣城影视.json",
       "jar": "http://www.wya6.cn/tz/wyxy.php"
     },
-{
-      "key": "csp_Kuaikan",
-      "name": "🐻快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://www.wya6.cn/tz/wyog1.php"
-    },
 
   
        
 
     
      
-   {
-      "key": "影视五",
-      "name": "🐻影D",
-      "type": 3,
-      "api": "csp_Movie2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/Movie5.json",
-      "jar": "http://www.wya6.cn/tz/wyog.php"
-    },
+   
    
     
 
@@ -380,16 +324,6 @@
      
    
      
-        {
-      "key": "meowtv_qxys",
-      "name": "🐻秋霞",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/秋霞影视.js"
-    },
      {
       "key": "meowtv_ssys",
       "name": "🐻三思",

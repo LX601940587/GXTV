@@ -13,7 +13,19 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
     },
-    
+     {
+            "key": "doutu",
+            "name": "秒播[有广]",
+            "type": 3,          
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "http://doutudianyingwang.qichenly.com/krdmk/{class}/{cateId}/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+            }
+        },
     {
       "key": "豆瓣",
       "name": "请勿相信视频内的网址",

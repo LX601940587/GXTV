@@ -148,7 +148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/ppx.txt",
+      "jar": "./lib/dongchen.jar",
       "ext": "./lib/freevip.json"
     },
 

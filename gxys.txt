@@ -6,7 +6,7 @@
     },
     {
       "sourceName": "🐻备用🐻",
-      "sourceUrl": "https://raw.githubusercontent.com/LX601940587/GXTV/master/GXYS.txt"
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/LX601940587/GXTV/master/GXYS.txt"
     },
 
    

@@ -148,6 +148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "./lib/ppx.txt",
       "ext": "./lib/freevip.json"
     },
 

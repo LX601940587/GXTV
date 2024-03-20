@@ -117,7 +117,40 @@
       "changeable": 1
     },
 
-   
+    {
+      "key": "皮皮虾",
+      "name": "🐻皮皮",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./lib/ppx.txt",
+      "ext": "FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
+    },
+ {
+      "key": "地瓜",
+      "name": "🐻地瓜",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./lib/xiaohu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://www.qiqiguai.cn/api.php/app/"
+    },
+  {
+      "key": "Free影视",
+      "name": "🐻Free",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/freevip.json"
+    },
+
 
     
    

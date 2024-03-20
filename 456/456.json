@@ -103,6 +103,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"./lib/dongchen.jar",
       "ext": "./json/miaobo.json"
     },
    

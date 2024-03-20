@@ -55,6 +55,27 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
+    {
+      "key": "秒播影院",
+      "name": "🐻秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./lib/dongchen.jar",
+      "ext": "./lib/miaobo.json"
+    },
+       {
+      "key": "短剧网",
+      "name": "🐻VIP短剧",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "jar": "./lib/duanjuw.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
      {
       "key": "短剧",
       "name": "🐻短剧1",
@@ -95,19 +116,9 @@
       "quickSearch": 1,
       "changeable": 1
     },
-{
-      "key": "秒播影院",
-      "name": "🐻秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./lib/dongchen.jar",
-      "ext": "./lib/miaobo.json"
-    },
+
    
-   
+
     
     {
       "key": "xh",

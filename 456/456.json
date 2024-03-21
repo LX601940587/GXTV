@@ -45,6 +45,17 @@
       "ext": "https://cloud.lxweb.cn/f/jmVkfy/yysd.json",
       "jar": "./lib/lxhfans应用市场.jar"
     },
+     {
+      "key": "秒播影院",
+      "name": "🐻秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./lib/dongchen.jar",
+      "ext": "./lib/miaobo.json"
+    },
     {
       "key": "玩偶哥哥",
       "name": "👽玩偶哥哥",
@@ -55,17 +66,7 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
-     {
-      "key": "一青叶我_开心玩偶",
-      "name": "🐻开心4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./lib/dongchen.jar",
-      "ext": "./lib/kaixin.json"
-    },
+     
     {
       "key": "地瓜臻享4K",
       "name": "🐻地瓜4K",
@@ -78,17 +79,7 @@
       "changeable": 0,
       "ext": "https://www.qiqiguai.cn/api.php/app/"
     },
-    {
-      "key": "秒播影院",
-      "name": "🐻秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./lib/dongchen.jar",
-      "ext": "./lib/miaobo.json"
-    },
+   
        {
       "key": "短剧网",
       "name": "🐻VIP短剧",

@@ -6,7 +6,7 @@
             "name": "👑狗熊影视"
         },
         {
-            "url": "https://raw.githubusercontent.com/LX601940587/GXTV/master/456/456.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/LX601940587/GXTV/master/456/456.json",
             "name": "👑狗熊影视(备用）"
         },
         {

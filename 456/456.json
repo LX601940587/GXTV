@@ -55,12 +55,22 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
+     {
+      "key": "一青叶我_开心玩偶",
+      "name": "开心🍹臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/kaixin.json"
+    },
     {
       "key": "地瓜臻享4K",
       "name": "地瓜🍠臻享4K",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "./fty.txt",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,

@@ -14,10 +14,7 @@
             "name": "👑狗熊影视(备用）"
         },
       
-        {
-            "url": "http://bp.tvbox.cam",
-            "name": "影视资源站"
-        },
+     
  {
             "url": "https://gitee.com/dongchenys/liu/raw/master/zy.json",
             "name": "东辰影视"

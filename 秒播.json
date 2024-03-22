@@ -26,18 +26,7 @@
       "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/miaobo.json"
     },
  
-    {
-      "key": "地瓜臻享4K",
-      "name": "🐻地瓜4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://www.qiqiguai.cn/api.php/app/"
-    },
+  
    
  
     {

@@ -6,7 +6,7 @@
             "name": "👑狗熊影视"
         },
         {
-            "url": " https://gitee.com/gxtv/gxtv/raw/master/%E7%A7%92%E6%92%AD.json",
+            "url": " https://gitee.com/gxtv/gxtv/raw/master/0.json",
             "name": "👑狗熊影视（秒播）"
         },
         {

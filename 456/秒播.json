@@ -10,8 +10,8 @@
       "key": "js豆瓣",
       "name": "🔥狗熊放映厅",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/douban.js"
+      "api": "https://gitee.com/gxtv/gxtv/raw/master/123/lib/drpy2.min.js",
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/123/lib/douban.js"
     },
   
      {
@@ -22,22 +22,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./lib/dongchen.jar",
-      "ext": "./lib/miaobo.json"
+      "jar":"https://gitee.com/gxtv/gxtv/raw/master/456/lib/dongchen.jar",
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/miaobo.json"
     },
  
-    {
-      "key": "地瓜臻享4K",
-      "name": "🐻地瓜4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://www.qiqiguai.cn/api.php/app/"
-    },
+  
    
  
     {

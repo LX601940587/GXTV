@@ -17,6 +17,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1 },
+      {
+      "key": "地瓜臻享4K",
+      "name": "🔥狗熊4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://www.qiqiguai.cn/api.php/app/"
+    },
 {
       "key": "秒播影院",
       "name": "🔥狗熊妙播（超速2）",

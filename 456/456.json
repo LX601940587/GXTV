@@ -10,24 +10,24 @@
       "key": "js豆瓣",
       "name": "🔥狗熊放映厅",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/douban.js"
+      "api": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/drpy2.min.js",
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/douban.js"
     },
      
     {
       "key": "豆瓣",
       "name": "请勿相信视频内的网址",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/drpy2.min.js",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./lib/drpy.js"
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/drpy.js"
     },
   {
       "key": "js豆瓣备用",
       "name": "请勿用于违法用途",
       "type": 3,
-      "api": "./lib/doubanbf.js",
+      "api": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/doubanbf.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -43,7 +43,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://cloud.lxweb.cn/f/jmVkfy/yysd.json",
-      "jar": "./lib/lxhfans应用市场.jar"
+      "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
     },
      {
       "key": "秒播影院",

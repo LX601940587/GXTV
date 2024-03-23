@@ -11,7 +11,7 @@
         },
      
         {
-            "url": "https://raw.kkgithub.com/LX601940587/GXTV/master/456/456.json",
+            "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/gxtv/gxtv/raw/456%2F456.json?ref=master",
             "name": "👑狗熊影视(备用）"
         },
       

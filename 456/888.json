@@ -37,8 +37,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./lib/dongchen.jar",
-      "ext": "./lib/miaobo.json"
+      "jar":"https://gitee.com/gxtv/gxtv/raw/master/456/lib/dongchen.jar",
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/miaobo.json"
    
 
  

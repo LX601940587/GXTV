@@ -53,8 +53,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./lib/dongchen.jar",
-      "ext": "./lib/miaobo.json"
+      "jar":"https://gitee.com/gxtv/gxtv/raw/master/456/lib/dongchen.jar",
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/miaobo.json"
     },
     {
       "key": "玩偶哥哥",
@@ -87,7 +87,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/sx.jar",
+      "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/sx.jar",
       "ext": {
         "分类url": "https://ys.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$5#短剧$21"
@@ -98,7 +98,7 @@
       "name": "🐻VIP短剧",
       "type": 3,
       "api": "csp_Duanjuw",
-      "jar": "./lib/duanjuw.txt",
+      "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/duanjuw.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -128,10 +128,10 @@
       "name": "🐻狗熊影视网盘",
       "type": 3,
       "api": "csp_AList",
-      "jar": "./lib/smdy.jar",
+      "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/smdy.jar",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./lib/Alist.json"
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/Alist.json"
     },
    {
       "key": "原创",
@@ -152,7 +152,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/ppx.txt",
+      "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/ppx.txt",
       "ext": "FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
     },
  {
@@ -160,7 +160,7 @@
       "name": "🐻地瓜",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "./lib/xiaohu.jar",
+      "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/xiaohu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -175,8 +175,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/dongchen.jar",
-      "ext": "./lib/freevip.json"
+      "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/dongchen.jar",
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/Free%E5%BD%B1%E8%A7%86.json"
     },
 
 
@@ -201,7 +201,7 @@
       "api": "csp_Bdys",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"./lib/ttkx.jar",
+      "jar":"https://gitee.com/gxtv/gxtv/raw/master/456/lib/ttkx.jar",
       "filterable": 1
     },
     
@@ -240,7 +240,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-      "jar": "./fix24225.jar",
+      "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/fix24225.jar",
       "ext": "http://app.kzjtv.com"
     },
  
@@ -251,7 +251,7 @@
       "api": "csp_KanKan",
       "searchable": 1,
       "quickSearch": 1,
-    "jar": "./fix24225.jar",
+    "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/fix24225.jar",
       "filterable": 0
     },
    
@@ -261,7 +261,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-     "jar": "./fix24225.jar",
+     "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/fix24225.jar",
       "ext": "http://op.ysdqjs.cn"
     },
     {
@@ -270,7 +270,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-     "jar": "./fix24225.jar",
+     "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/fix24225.jar",
       "ext": "http://v.rbotv.cn"
     },
     
@@ -368,7 +368,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/圣城影视.json",
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/圣城影视.json",
       "jar": "http://www.wya6.cn/tz/wyxy.php"
     },
 
@@ -393,7 +393,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/三思影视.json",
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/三思影视.json",
       "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
     {
@@ -404,7 +404,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/蓝光影视.json",
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/蓝光影视.json",
       "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
    
@@ -431,7 +431,7 @@
       "type": 3,
       "api": "csp_Skapp",
       "playerType": 2,
-      "jar": "./lib/pg.jar",
+      "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/pg.jar",
       "ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1"
     },
     
@@ -503,7 +503,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/",
-      "jar": "./lib/yingyintiantang.jar"
+      "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/yingyintiantang.jar"
     },
     
    
@@ -517,10 +517,10 @@
       "key": "drpy_js_奇珍异兽",
       "name": "🐻爱奇艺",
       "type": 3,
-      "api": "./lib/ddrpy2.m.js",
-      "ext": "./lib/爱奇.js"
+      "api": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/ddrpy2.m.js",
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/爱奇.js"
     },
-      {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"./lib/candymuj2.jar","searchable":1,"quickSearch":1,"filterable":1},
+      {"key":"csp_CandyMuj_taoju","name":"🐻淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"https://gitee.com/gxtv/gxtv/raw/master/456/lib/candymuj2.jar","searchable":1,"quickSearch":1,"filterable":1},
      
 
 
@@ -528,8 +528,8 @@
       "key": "种子短剧",
       "name": "🐻抖短剧2（无广）",
       "type": 3,
-      "api": "./lib/drpy3.min.js",
-      "ext": "./lib/zhongzi.js"
+      "api": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/drpy3.min.js",
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/zhongzi.js"
     },
     {"key":"横版影院","name":"🐻抖短剧3（无广）","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
       

@@ -6,7 +6,7 @@
     },
     {
       "sourceName": "🐻备用🐻",
-      "sourceUrl": "https://cloud.lxweb.cn/f/aAkLh6/GXTV.txt"
+      "sourceUrl": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/gxtv/gxtv/raw/gxys.txt?ref=master"
     },
 
    

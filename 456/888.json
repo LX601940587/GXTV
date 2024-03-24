@@ -13,17 +13,7 @@
       "api": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/drpy2.min.js",
       "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/douban.js"
     },
-     {
-      "key": "csp_XYQHikerAL_土豆",
-      "name": "土豆🥔臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://gitee.com/gxtv/gxtv/raw/master/456/lib/dongchen.jar",
-      "ext": "https://cloud.lxweb.cn/f/D6yRi1/tudou.json"
-    },
+     
      {
       
       "key": "白嫖",

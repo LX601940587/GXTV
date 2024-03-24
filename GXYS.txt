@@ -7,11 +7,15 @@
         },
          {
             "url": "https://gitee.com/gxtv/gxtv/raw/master/456/888.json",
-            "name": "秒播"
+            "name": "👑秒播(测试)"
         },
      
         {
             "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/gxtv/gxtv/raw/456%2F456.json?ref=master",
+            "name": "👑狗熊影视(备用）"
+        },
+                {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/LX601940587/GXTV/master/456/456.json",
             "name": "👑狗熊影视(备用）"
         },
       

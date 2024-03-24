@@ -22,7 +22,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"https://gitee.com/gxtv/gxtv/raw/master/456/lib/dongchen.jar",
-      "ext": "./json/tudou.json"
+      "ext": "https://cloud.lxweb.cn/f/D6yRi1/tudou.json"
     },
      {
       

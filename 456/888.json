@@ -6,7 +6,13 @@
  
   
   "sites": [
-  
+   {
+      "key": "js豆瓣",
+      "name": "🔥狗熊放映厅",
+      "type": 3,
+      "api": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/drpy2.min.js",
+      "ext": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/douban.js"
+    },
      {
       
       "key": "白嫖",

@@ -881,5 +881,11 @@
       ]
     }
   ],
-  "lives":[{"name":"live","type":0,"url":"https://gitee.com/gxtv/gxtv/raw/master/456/lib/live2.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}]
+  "lives": [
+    {
+      "name": "狗熊直播",
+      "type": 0,
+      "url": "http://mywlkj.ddns.net:754/tv.php"
+    }
+  ]
 }

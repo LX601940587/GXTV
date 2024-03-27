@@ -144,17 +144,7 @@
       "changeable": 1
     },
 
-    {
-      "key": "皮皮虾",
-      "name": "🐻皮皮",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/ppx.txt",
-      "ext": "FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
-    },
+   
  {
       "key": "地瓜",
       "name": "🐻地瓜",
@@ -240,7 +230,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-      "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/fix24225.jar",
+      "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001",
       "ext": "http://app.kzjtv.com"
     },
  
@@ -251,7 +241,7 @@
       "api": "csp_KanKan",
       "searchable": 1,
       "quickSearch": 1,
-    "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/fix24225.jar",
+    "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001",
       "filterable": 0
     },
    
@@ -261,7 +251,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-     "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/fix24225.jar",
+     "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001",
       "ext": "http://op.ysdqjs.cn"
     },
     {
@@ -270,7 +260,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-     "jar": "https://gitee.com/gxtv/gxtv/raw/master/456/lib/fix24225.jar",
+     "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001",
       "ext": "http://v.rbotv.cn"
     },
     

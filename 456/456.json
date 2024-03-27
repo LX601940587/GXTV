@@ -143,8 +143,39 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
-   
+   {
+      "key": "咕噜",
+      "name": "🔥宇宙四线",
+      "jar": "./lib/Movie2.txt;md5;85eb7c33792c9bd8cd181596a168deba",
+      "type": 3,
+      "api": "csp_Movie2",
+      "ext": "./lib/Movie5.json"
+    },
+     {
+      "key": "云2",
+      "name": "🔥梦影",
+      "type": 3,
+      "api": "csp_Movie2",
+      "jar": "./lib/Movie2.txt;md5;85eb7c33792c9bd8cd181596a168deba",
+      "ext": "./lib/Movie5.txt",
+      "categories": [
+        "短剧",
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+     {
+      "key": "csp_xBPQ_秒",
+      "name": "👿文才·秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/文才.json"
+    },
  {
       "key": "地瓜",
       "name": "🐻地瓜",

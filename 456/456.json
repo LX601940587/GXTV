@@ -234,26 +234,9 @@
       "ext": "http://app.kzjtv.com"
     },
  
-     {
-      "key": "看看",
-      "name": "🐻看看",
-      "type": 3,
-      "api": "csp_KanKan",
-      "searchable": 1,
-      "quickSearch": 1,
-    "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001",
-      "filterable": 0
-    },
+    
    
-      {
-      "key": "天天",
-      "name": "🐻天天",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-     "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001",
-      "ext": "http://op.ysdqjs.cn"
-    },
+    
     {
       "key": "热播",
       "name": "🐻热播",
